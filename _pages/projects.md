@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Research & Engineer projects, roughly categorized by Robotics, Generative Models and Other.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Robotics, Generative Models, Other]
 horizontal: false
 ---
 

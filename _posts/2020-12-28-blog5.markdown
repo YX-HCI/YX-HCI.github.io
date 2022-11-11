@@ -4,8 +4,7 @@ title: "2020年末总结"
 subtitle: '年末总结 暨 申请季总结'
 author: "Y. Yang"
 header-style: text
-tags:
-  - Blogs
+tags: Blogs
 ---
 
 > 我在江南的檐下 <br>我在东北的田畔 <br>我在异国的海岸<br> 我在时间打结的地方 <br>—— **走戊** 的 杂句
