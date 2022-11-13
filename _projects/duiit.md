@@ -1,13 +1,16 @@
 ---
 layout: page
-title: Cross-modal data augmentation
+title: Cross-modal data augmentation <a href="https://yy-gx.github.io/assets/pdf/Arxiv(ICLR-sub).pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
 description: Discriminative Cross-Modal Data Augmentation for Medical Imaging Applications
 img: assets/img/project_imgs/iclr21.jpg
 importance: 1
 category: Generative Models
 ---
 
-This is a research project that aim to mitigate the data deficiency issue via cross-modality data augmentation in the medical imaging domain. Here's the Paper Arxiv link: [Discriminative Cross-Modal Data Augmentation for Medical Imaging Applications](https://arxiv.org/pdf/2010.03468.pdf)
+
+This is a research project that aim to mitigate the data deficiency issue via cross-modality data augmentation in the medical imaging domain. Here's the Paper Arxiv link: [Discriminative Cross-Modal Data Augmentation for Medical Imaging Applications](https://arxiv.org/pdf/2010.03468.pdf). 
+
+<!-- [PDF](assets/pdf/example_pdf.pdf) -->
 
 # Abstract
 While deep learning methods have shown great success in medical image analysis, they require a number of medical images to train. Due to data privacy concerns and unavailability of medical annotators, it is oftentimes very difficult to obtain a lot of labeled medical images for model training. In this paper, we study cross-modality data augmentation to mitigate the data deficiency issue in the medical imaging domain. We propose a discriminative unpaired image-to-image translation model which translates images in source modality into images in target modality where the translation task is conducted jointly with the downstream prediction task and the translation is guided by the prediction. Experiments on two applications demonstrate the effectiveness of our method. 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Human Robot Collaboration
+title: Human Robot Collaboration <a href="https://yy-gx.github.io/assets/pdf/CS_8803___RLR___Final.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
 description: Learning Diverse Strategies for Human Robot Collaboration via GAIL
 img: assets/img/project_imgs/tasks.png
 importance: 5

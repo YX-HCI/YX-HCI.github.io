@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pre-train of GAIL
+title: Pre-train of GAIL <a href="https://yy-gx.github.io/assets/pdf/CS_7649___Final.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
 description: Initialization Study of Generative Adversarial Imitation Learning
 img: assets/img/project_imgs/7649/framework.png
 importance: 6

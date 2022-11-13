@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Multi-robot path finding
+title: Multi-robot path finding <a href="https://yy-gx.github.io/assets/pdf/BCBSD__in_progress_.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
 description: Anytime Bounded Conflicted-Based algorithm for Dynamic Environments
 img: assets/img/project_imgs/icra21.gif
 importance: 3

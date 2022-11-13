@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Safe navigation
+title: Safe navigation <a href="https://yy-gx.github.io/assets/pdf/CS7648_Project_Report.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
 description: Interactive Learning on Safe Navigation in Cluster Dynamic Environments
 img: assets/img/project_imgs/RL_HI.png
 importance: 4
 category: Robotics
 ---
+
 
 This is a research project that aims to investigate different safe reinforcement learning (RL) approaches for a robot to navigate safely in dynamic cluster environments.
 
