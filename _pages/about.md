@@ -20,12 +20,16 @@ profile:
     
 
 news: false  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
 I am a second-year Master student in Computer Science at [Georgia Institute of Technology (GaTech)](https://www.gatech.edu/). I'm now working under the supervision of [Prof. Matthew Gombolay](https://core-robotics.gatech.edu/people/matthew-gombolay/) and [Prof. Greg Turk](https://faculty.cc.gatech.edu/~turk/).
 
+My current research interest lies in:
+- Safe robot learning and deployment
+- Learning from demonstrations
+- Generative model applications 
 
 
 
