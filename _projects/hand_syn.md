@@ -7,7 +7,7 @@ importance: 2
 category: Generative Models
 ---
 
-On-going project that aims to synthesize lifelike hands via popular generative models (e.g., StyleGAN, Stable Diffusion), advised by professor [Greg Turk](https://faculty.cc.gatech.edu/~turk/).
+This is an on-going project that aims to synthesize lifelike hands via popular generative models (e.g., StyleGAN, Stable Diffusion), advised by professor [Greg Turk](https://faculty.cc.gatech.edu/~turk/).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

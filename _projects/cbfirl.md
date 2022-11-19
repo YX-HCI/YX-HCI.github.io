@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Safe IRL
+title: Safe IRL <a href="https://yy-gx.github.io/assets/pdf/CBF_IRL_CoRL_Workshop_Paper.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
 description: Safe Inverse Reinforcement Learning via Control Barrier Function
 img: assets/img/project_imgs/arch.png
 importance: 1
 category: Robotics
 ---
 
-This is a research project that aims to mitigate safety issues in Inverse Reinforcement Learning (IRL) via leveraging the Control Barrier Function (CBF). Advised by professor [Matthew Gombolay
-](https://core-robotics.gatech.edu/people/matthew-gombolay/).
+This is an on-going research project that aims to mitigate safety issues in Inverse Reinforcement Learning (IRL) via leveraging the Control Barrier Function (CBF), advised by professor [Matthew Gombolay
+](https://core-robotics.gatech.edu/people/matthew-gombolay/). Progressive results are accepted by [CoRL' 22 Learning for Agile Robotics (LAR) Workshop](https://www.agilerobotscorl2022.com/).
 
 
 # Abstract 
