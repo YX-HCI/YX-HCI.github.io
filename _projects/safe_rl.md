@@ -8,7 +8,7 @@ category: Robotics
 ---
 
 
-This is a research project that aims to investigate different safe reinforcement learning (RL) approaches for a robot to navigate safely in dynamic cluster environments.
+This is a GaTech course research project that aims to investigate different safe reinforcement learning (RL) approaches for a robot to navigate safely in dynamic cluster environments.
 
 
 # Abstract 

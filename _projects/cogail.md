@@ -8,7 +8,7 @@ category: Robotics
 ---
 
 
-This is a research project that focus on Human-robot collaboration. Here's the project paper link: [Learning Diverse Strategies for Human Robot Collaboration via GAIL](./assets/pdf/example_pdf.pdf)
+This is a GaTech course research project that focus on Human-robot collaboration. Here's the project paper link: [Learning Diverse Strategies for Human Robot Collaboration via GAIL](./assets/pdf/example_pdf.pdf)
 
 
 # Abstract 
