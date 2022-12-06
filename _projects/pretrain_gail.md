@@ -7,7 +7,7 @@ importance: 6
 category: Robotics
 ---
 
-This is a GaTech course research project that proposes a flexible framework for studying GAIL's initialization. Here's the project paper link: [Initialization Study of Generative Adversarial Imitation Learning](./assets/pdf/example_pdf.pdf)
+This is a GaTech course research project that proposes a flexible framework for studying GAIL's initialization. Here's the project paper link: [Initialization Study of Generative Adversarial Imitation Learning](https://yy-gx.github.io/assets/pdf/CS_7649___Final.pdf).
 
 
 # Abstract 

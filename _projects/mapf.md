@@ -8,7 +8,7 @@ category: Robotics
 ---
 
 
-This is a research project that proposes a bounded conflicted-based algorithm for dynamic environments. Here's the project paper link: [BCBSD: Anytime Bounded Conflicted-Based algorithm for Dynamic Environments](./assets/pdf/example_pdf.pdf)
+This is a research project that proposes a bounded conflicted-based algorithm for dynamic environments. Here's the project paper link: [BCBSD: Anytime Bounded Conflicted-Based algorithm for Dynamic Environments](https://yy-gx.github.io/assets/pdf/BCBSD__in_progress_.pdf).
 
 
 # Abstract 

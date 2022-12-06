@@ -26,12 +26,12 @@ social: false  # includes social icons at the bottom of the page
 
 I am a second-year Master student in Computer Science at [Georgia Institute of Technology (GaTech)](https://www.gatech.edu/). I'm now working under the supervision of [Prof. Matthew Gombolay](https://core-robotics.gatech.edu/people/matthew-gombolay/) and [Prof. Greg Turk](https://faculty.cc.gatech.edu/~turk/).
 
-I'm interested in Robotics, Machine Learning (ML), and their application in Human-Robot Interaction (HRI). My current research interest include but not limited to:
+I'm interested in Robotics, Machine Learning (ML), and their application in Human-Robot Interaction (HRI). My current research interests include but not limited to:
 - Safe robot learning and deployment
 - Learning from demonstrations
 - Generative model applications 
 
-
+I believe in [Slow Science](http://slow-science.org/).
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
