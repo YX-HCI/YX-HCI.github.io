@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Safe IRL <a href="https://yy-gx.github.io/assets/pdf/CBF_IRL_CoRL_Workshop_Paper.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
+title: Safe IRL <a href="https://arxiv.org/pdf/2212.02753.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
 description: Safe Inverse Reinforcement Learning via Control Barrier Function
 img: assets/img/project_imgs/arch.png
 importance: 1
