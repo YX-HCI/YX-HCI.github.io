@@ -17,7 +17,7 @@ This is an on-going project advised by professor [Greg Turk](https://faculty.cc.
 - left/right
 - ...
 
- Here's the preliminary research proposal (drafted in August): [proposal](https://yy-gx.github.io/assets/pdf/Proposal_hand_synthesize.pdf).
+ Here's the preliminary research proposal (drafted in August 2022): [proposal](https://yy-gx.github.io/assets/pdf/Proposal_hand_synthesize.pdf).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
