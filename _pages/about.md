@@ -35,11 +35,11 @@ social: false  # includes social icons at the bottom of the page
 [//]: # (I also worked closely with [Prof. Greg Turk]&#40;https://faculty.cc.gatech.edu/~turk/&#41;. It is my pleasure to work with them.)
 
 
-I am currently embarking on my first-year journey as a Computer Science PhD student at [The University of North Carolina at Chapel Hill (UNC-CH)](https://www.unc.edu/)
-, co-advised by two distinguished mentors, [Prof. Daniel J. Szafir](https://www.danszafir.com/) and [Gedas Bertasius](https://www.gedasbertasius.com/). 
-Prior to this exciting endeavor, I pursued my Master's degree in Computer Science at the [Georgia Institute of Technology (GaTech)](https://www.gatech.edu/). 
+I am currently a first-year Computer Science PhD student at [The University of North Carolina at Chapel Hill (UNC-CH)](https://www.unc.edu/)
+, under the co-supervision of [Prof. Daniel J. Szafir](https://www.danszafir.com/) and [Prof. Gedas Bertasius](https://www.gedasbertasius.com/). 
+Prior to embarking on this academic journey, I pursued my Master's degree in Computer Science at the [Georgia Institute of Technology (GaTech)](https://www.gatech.edu/). 
 During my time at GaTech, I worked closely with [Prof. Matthew Gombolay](https://core-robotics.gatech.edu/people/matthew-gombolay/). 
-I was fortunate to collaborate with [Prof. Greg Turk](https://faculty.cc.gatech.edu/~turk/) as well. It's a true privilege to have worked with these outstanding academics in the field.
+I was fortunate to collaborate with [Prof. Greg Turk](https://faculty.cc.gatech.edu/~turk/) as well. It's a true privilege to have worked with these outstanding academics.
 
 My research interests lie in **Robotics**, **Machine Learning (ML)**, and their application in **Human-Robot Interaction (HRI)**. My desired research directions include but not limited to:
 - **Human-multi-robot interaction**. Exploring human-multi-robot interaction frameworks that can promote human working eﬀiciency.
