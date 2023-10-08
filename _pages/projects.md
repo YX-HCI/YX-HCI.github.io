@@ -5,7 +5,7 @@ permalink: /projects/
 description: Research & Engineer projects, roughly categorized by Robotics, Generative Models and Other.
 nav: true
 nav_order: 2
-display_categories: [Robotics, Generative Models, Other]
+display_categories: [C1]
 horizontal: false
 ---
 
