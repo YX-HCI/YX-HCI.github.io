@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Safe IRL <a href="https://yy-gx.github.io/assets/pdf/Paper- DeGov4VC.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
+title: Safe IRL <a href="https://yx-hci.github.io/assets/pdf/Paper- DeGov4VC.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
 description: Decentralized Governance for Virtual Community (DeGov4VC)
 img: assets/img/project_imgs/p1.png
 importance: 1
@@ -13,9 +13,42 @@ Here’s the project paper link:
 
 - Yan Xiang, Qianhui Fan, Kejiang Qian, Jiajie Li, Yuying Tang, and Ze Gao. (2023). “Decentralized Governance for Virtual Community (DeGov4VC): Optimal Policy Design of Human-plant Symbiosis Co-creation.” In Companion Publication of the 2023 ACM Designing Interactive Systems Conference (DIS '23 Companion). Association for Computing Machinery, New York, NY, USA, 207–212. https://doi.org/10.1145/3563703.3596621, (ACM).
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_imgs/p1_img.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Human-plant Symbiosis Scenario Using the DeGov4VC Platform Interface.
+</div>
 
-This is an on-going research project that aims to mitigate safety issues in Inverse Reinforcement Learning (IRL) via leveraging the Control Barrier Function (CBF), advised by professor [Matthew Gombolay
-](https://core-robotics.gatech.edu/people/matthew-gombolay/). Progressive results are accepted by [CoRL' 22 Learning for Agile Robotics (LAR) Workshop](https://www.agilerobotscorl2022.com/).
+
+Does the decentralized nature of user behavior in interactive virtual communities help create rules promoting user engagement? Through scenarios like planting, this framework suggests a new paradigm for mutual influence that allows users to impact communities’ political decisions. Sixteen participants in the first round of interviews were involved in the framework’s creation. Then we developed and implemented our framework in the community with the help of other stakeholders. This proof-of-concept creates user groups using information from users’ daily activities as input and grows the green plants in a virtual environment. Finally, we involved AI agents and stakeholders in the framework test and iterations. Our study’s user evaluation of a few key stakeholders demonstrates how our strategy enhances user viscosity and experience. Via human-planting ecosystems in a virtual community, this research gives a fresh viewpoint on decentralized governance and an engaging method for co-creating interactive ecological communities.
+
+# Research Quesitons
+- How can users be encouraged to engage in green activities and participate in the decision-making process in the virtual community?  
+- Specifically, what gathering forms of decentralized governance in virtual communities can better promote the interactive co-creation of human-plant symbiosis have been significant research problems?
+
+# Concept & Design Principles
+## Concept
+
+This study focuses on two main aspects: 
+- Human-machine Collaboration through Virtual Community
+- Decentralized Governance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Abstract 
@@ -23,14 +56,6 @@ Learning from Demonstration (LfD) is a powerful method for enabling robots to pe
 
 
 # Methodology
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/corl/arch.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This figure depicts the architecture of CBFIRL.
-</div>
 
 
 # Results
