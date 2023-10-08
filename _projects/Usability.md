@@ -21,10 +21,10 @@ Previous studies have shown that when designing for middle-aged and elderly peop
 Explore the **usability** and **learnability** problem of the elder-friendly design for the real elder people in mobile apps. 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/p2_1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/p2_2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -44,18 +44,18 @@ We take Alipay App as an example in this experiment to conduct research from the
 Based on the evaluation results, design improvement strategies suitable for senior users will be proposed. 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/p2_3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/p2_4.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/p2_5.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/p2_6.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

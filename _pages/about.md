@@ -25,7 +25,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
-I am currently a third-year Master’s student in International Industrial Design Engineering (GPA:3.92/4.0, Rank: Top 5%), 
+I am currently a third-year Master’s student in International Industrial Design Engineering (**GPA: 3.92/4.0, Rank: Top 5%**), 
 [School of Design](https://designschool.sjtu.edu.cn/en-us) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), 
 under the supervision of Prof. [Danni Chang (Associate Dean)](https://designschool.sjtu.edu.cn/teacher/31104c124abec4f853ad19c8530ab586/viceprofessor/detail/5ec4e69c77d93a7fe5885e88). 
 I am now also a visting student in [Data-Driven Innovation Lab](https://ddi.sutd.edu.sg/) at [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/), 

@@ -50,30 +50,30 @@ Phase 1 is to configure the hardware settings to detect and collect the brain si
 # Game development
 ## Training software - Game Development Platform
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/3.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_imgs/3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_imgs/4.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/4.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+
 <div class="caption">
     Left: Attention value thresholds for different difficulty levels. Right: The structure of the game system.
 </div>
 
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/5.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_imgs/5.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/6.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_imgs/6.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -104,14 +104,13 @@ Phase 1 is to configure the hardware settings to detect and collect the brain si
 
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/9.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_imgs/9.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/10.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_imgs/10.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
