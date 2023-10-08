@@ -143,7 +143,7 @@ Two categories of measurement indicators were formulated: **objective and subjec
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/p2_11.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/usability/p2_11.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -152,4 +152,83 @@ Two categories of measurement indicators were formulated: **objective and subjec
 
 
 ## B. Interface design analysis
+### (1) Superimposed heat map
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_imgs/usability/图片11.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Figure 1. Comparison of normal mode(the left side of each) and elder-friendly mode(the right side of each) of Alipay’s home page.
+    (left two): home page  (middle two): area of interest (right two): overall heat map 
+</div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_imgs/usability/图片12.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Figure 2. Heat map of fixations of 8 users using Alipay's normal mode.
+</div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_imgs/usability/图片13.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Figure 3. Heat map of fixations of 8 users using Alipay's elder-friendly mode
+</div>
+
+
+### (2) AOI fixation rate of Alipay’s homepage 
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_imgs/usability/微信截图_20231008001013.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_imgs/usability/图片14.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Figure 4.  Superimposed eye-tracking data for task 3 4 5 in normal mode(left) and elder-friendly mode(right).
+</div>
+
+### (3) Task flow design analysis
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_imgs/usability/微信截图_20231008001035.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Figure 4.  Superimposed eye-tracking data for task 3 4 5 in normal mode(left) and elder-friendly mode(right).
+</div>
+
+# Discussion
+## Design Improvement Suggestions
+- Information Architecture and Relevance:
+   - Embody consistency in function portal design for easy recognition across interfaces.
+   - Ensure content above and below the hierarchy is relevant to enhance usability for the elderly.
+
+- Task Organization and Perceivability:
+   - Avoid multi-level tasks on the same page to maintain a clear order of operations.
+   - Ensure the order of operations within the same page is easily perceivable.
+
+- Choice Simplification:
+   - Streamline multiple choices with the same function to reduce screening time and alleviate the selection burden.
+   - Ensure a straightforward and visually intuitive task flow on the interface, prioritizing usability for the elderly.
+  
+- Visual and Symbolic Elements:
+   - Evaluate the systematic effects of color and physical size on the visual focus of the elderly.
+   - Design icons with symbols and imagery metaphors familiar to the elderly.
+
+## Further development
+This study aims to investigate and assess the usability of elder-friendly design, providing valuable design improvement suggestions. Additionally, exploring innovative interactive methods, including voice, vision, gestures, etc., can enhance elder-friendly design further. The interdisciplinary design recommendations aim to address current usability challenges in elder-friendly design, offering crucial insights for future research.
