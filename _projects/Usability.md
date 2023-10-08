@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Accessibility and Usability <a href="https://yx-hci.github.io/assets/pdf/Paper-DeGov4VC.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
+title: Accessibility and Usability <a href="https://yx-hci.github.io/assets/pdf/Usability.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
 description: Enhancing Usability and Accessibility: Evaluation and Strategy for Elder-Friendly App Design
 img: assets/img/project_imgs/p2.png
-importance: 1
+importance: 2
 category: C1
 ---
 
@@ -64,7 +64,92 @@ Based on the evaluation results, design improvement strategies suitable for seni
 </div>
 
 
+## Experiment subjects 
+16 participants between the ages of 45 and 59 were recruited for the experiment were randomly divided into 2 groups, of which group A (GA) used Alipay's normal mode to complete the tasks, and group B (GB) used Alipay's elder-friendly mode as shown in table 1.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_imgs/p2_7.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+All participants are in good physical condition, without severe visual impairment, and meet the basic conditions to perform our tasks. 
 
 
 
+## Experiment tools
+- Tobii Pro Glasses2 eye tracker
+- Printed System Usability Scale (SUS)
+- Several task instruction cards
+- A mobile phone with Alipay installed 
+- A video recording appliance
+
+
+## Evaluation metrics
+Two categories of measurement indicators were formulated: **objective and subjective metrics**
+
+**Objective measurement indicators**:
+- Completion time of each task
+- Completion rates
+- Number of mistakes
+- Times of requests for operation clue
+- Home page 30s static observation heat map
+- Heat map of each task page before jumping
+- Area of interest (AOI) Total Fixation Duration  
+
+
+## Subjective measurement indicators
+- Modified System Usability Scale (SUS) 
+- Interview results after the experiment
+
+## Experiment process
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_imgs/p2_8.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+# Results analysis
+## A. Overall information architecture 
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_imgs/p2_9.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    (1) Descriptive statistics
+</div>
+
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_imgs/usability/p2_10.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_imgs/usability/微信截图_20231008000948.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    (2) Completion time of the task
+</div>
+
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_imgs/p2_11.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    (3) SUS: System Usability Scale analysis 
+</div>
+
+
+## B. Interface design analysis
 
