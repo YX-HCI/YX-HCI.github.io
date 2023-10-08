@@ -1,9 +1,9 @@
 ---
-layout: news
+layout: page
 permalink: /repositories/
 title: Repositories
 description: Several github repositories for projects.
-nav: true
+nav: false
 nav_order: 3
 ---
 

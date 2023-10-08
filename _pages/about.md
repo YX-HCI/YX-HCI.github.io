@@ -45,10 +45,10 @@ This is the direction I am passionate about, something I think is meaningful, an
 
 ---
 
-## My Research Experience
+### My Research Experience
 I actively engaged in various research area and found my interest lied in HCI, and fueled my desire to become a researcher in the future. I believe that pursing a PhD in Human-Computer Interaction is the logical next step in my academic journey.
 
-### Research Assistant
+#### Research Assistant
 - [NUS-HCI Lab](https://www.nus-hci.org/) of Department of Computer Science @ National University of Singapore, under the supervision of [Prof. Shengdong Zhao](https://www.shengdongzhao.com/);
 
 - [MIT Media Lab CSL](https://www.csl-sh.org/) @ Shanghai, research assistan, under the supervision of Dr. [Yan Zhang (Ryan)](https://www.media.mit.edu/people/ryanz/overview/) and Prof. [Yang Liu](https://tjdi.tongji.edu.cn/TeacherDetail.do?id=1146&lang=_en)
@@ -61,14 +61,14 @@ Dr. [Odin van der Stelt](https://scholar.google.com/citations?user=Ugw6B7EAAAAJ&
 - [Interaction Design Lab](https://ixd-sjtu.github.io/IxD-web/about.html) @SJTU, under the supervision of Prof. [Danni Chang](https://designschool.sjtu.edu.cn/teacher/31104c124abec4f853ad19c8530ab586/viceprofessor/detail/5ec4e69c77d93a7fe5885e88) 
 and Prof. [Zhenyu Gu](https://designschool.sjtu.edu.cn/teacher/31104c124abec4f853ad19c8530ab586/professor/detail/5ec6b6d1c4b4b304afeb5737).
 
-### Summer Research
+#### Summer Research
 - HCI·X Summer Research Program @ CityU & DKU & HKUST(GZ), under the supervision of Prof. [Ray LC](https://www.scm.cityu.edu.hk/people/ray-lc), Prof. [Xin Tong](https://xintong.ca/), and Prof. [Mingming Fan](https://www.mingmingfan.com/)
 
 - [Pervasive Human Computer Interaction Lab](https://pi.cs.tsinghua.edu.cn/), Department of Computer Science @ Tsinghua University (THU), and China Computer Federation(CCF)- HCI Technical Committee, under the supervision of 
 Prof. [Xin Yi](https://www.insc.tsinghua.edu.cn/info/1157/2453.htm), Prof. [Yuntao Wang](https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/), Prof. [Yuanchun Shi](https://pi.cs.tsinghua.edu.cn/people/#faculty)
 
 
-### Exchange and Visiting
+#### Exchange and Visiting
 - Visiting Student, [Data-Driven Innovation Lab](https://ddi.sutd.edu.sg/), Engineering Product Development Pillar, [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/), September 2023 - December 2023 (Expected)   
 - Exchange Student, [Seoul National University](https://en.snu.ac.kr/), [Department of Architecture and Architectural Engineering](https://architecture.snu.ac.kr/), Collge of Engineering, September 2018 - June 2019
 - Summer Exchange Student, [Bauhaus-Universität Weimar](https://www.uni-weimar.de/de/universitaet/start/), Architecture and Urbanism, June 2019 - August 2019
