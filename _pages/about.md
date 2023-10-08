@@ -48,11 +48,6 @@ This is the direction I am passionate about, something I think is meaningful, an
 ## My Research Experience
 I actively engaged in various research area and found my interest lied in HCI, and fueled my desire to become a researcher in the future. I believe that pursing a PhD in Human-Computer Interaction is the logical next step in my academic journey.
 
-### Exchange and Visiting
-- Visiting Student, [Data-Driven Innovation Lab](https://ddi.sutd.edu.sg/), Engineering Product Development Pillar, [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/), September 2023 - December 2023 (Expected)   
-- Exchange Student, [Seoul National University](https://en.snu.ac.kr/), [Department of Architecture and Architectural Engineering](https://architecture.snu.ac.kr/), Collge of Engineering, September 2018 - June 2019
-- Summer Exchange Student, [Bauhaus-Universität Weimar](https://www.uni-weimar.de/de/universitaet/start/), Architecture and Urbanism, June 2019 - August 2019
-
 ### Research Assistant
 - [NUS-HCI Lab](https://www.nus-hci.org/) of Department of Computer Science @ National University of Singapore, under the supervision of [Prof. Shengdong Zhao](https://www.shengdongzhao.com/);
 
@@ -72,4 +67,9 @@ and Prof. [Zhenyu Gu](https://designschool.sjtu.edu.cn/teacher/31104c124abec4f85
 - [Pervasive Human Computer Interaction Lab](https://pi.cs.tsinghua.edu.cn/), Department of Computer Science @ Tsinghua University (THU), and China Computer Federation(CCF)- HCI Technical Committee, under the supervision of 
 Prof. [Xin Yi](https://www.insc.tsinghua.edu.cn/info/1157/2453.htm), Prof. [Yuntao Wang](https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/), Prof. [Yuanchun Shi](https://pi.cs.tsinghua.edu.cn/people/#faculty)
 
+
+### Exchange and Visiting
+- Visiting Student, [Data-Driven Innovation Lab](https://ddi.sutd.edu.sg/), Engineering Product Development Pillar, [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/), September 2023 - December 2023 (Expected)   
+- Exchange Student, [Seoul National University](https://en.snu.ac.kr/), [Department of Architecture and Architectural Engineering](https://architecture.snu.ac.kr/), Collge of Engineering, September 2018 - June 2019
+- Summer Exchange Student, [Bauhaus-Universität Weimar](https://www.uni-weimar.de/de/universitaet/start/), Architecture and Urbanism, June 2019 - August 2019
 
