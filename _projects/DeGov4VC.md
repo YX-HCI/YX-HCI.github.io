@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Safe IRL <a href="https://yx-hci.github.io/assets/pdf/Paper-DeGov4VC.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
+title: Co-creation through VR - DeGov4VC <a href="https://yx-hci.github.io/assets/pdf/Paper-DeGov4VC.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
 description: Decentralized Governance for Virtual Community (DeGov4VC)
 img: assets/img/project_imgs/p1.png
 importance: 1
