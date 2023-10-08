@@ -22,7 +22,7 @@ Recent developments in brain-computer interface (BCI) technology have shown grea
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/bci.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/bci/1.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -36,7 +36,7 @@ The BCI attention training system based on ANT and gamification is developed. In
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/bci.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/bci/2.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -52,12 +52,12 @@ Phase 1 is to configure the hardware settings to detect and collect the brain si
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/bci.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/bci/3.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/bci.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/bci/4.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -68,12 +68,12 @@ Phase 1 is to configure the hardware settings to detect and collect the brain si
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/bci.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/bci/5.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/bci.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/bci/6.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -84,7 +84,7 @@ Phase 1 is to configure the hardware settings to detect and collect the brain si
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/bci.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/bci/7.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -94,7 +94,7 @@ Phase 1 is to configure the hardware settings to detect and collect the brain si
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/bci.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/bci/8.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -106,12 +106,12 @@ Phase 1 is to configure the hardware settings to detect and collect the brain si
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/bci.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/bci/9.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/bci.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/bci/10.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -126,7 +126,7 @@ Phase 1 is to configure the hardware settings to detect and collect the brain si
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/bci.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/bci/11.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -139,7 +139,7 @@ Phase 1 is to configure the hardware settings to detect and collect the brain si
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/bci.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/bci/12.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -152,7 +152,7 @@ Phase 1 is to configure the hardware settings to detect and collect the brain si
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/bci.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/bci/13.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -165,7 +165,7 @@ The experimental process lasted 16 days and consisted of three parts.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/bci.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/bci/14.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -188,7 +188,7 @@ For user experience evaluation, In-Game Experience scale was provided. It is a s
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/bci.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/bci/15.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -199,7 +199,7 @@ For user experience evaluation, In-Game Experience scale was provided. It is a s
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/bci.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/bci/16.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -220,7 +220,7 @@ No significant difference is presented in their original concentration ability, 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/bci.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/bci/17.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -229,7 +229,7 @@ No significant difference is presented in their original concentration ability, 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/bci.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/bci/18.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -239,7 +239,7 @@ No significant difference is presented in their original concentration ability, 
 ### Comparative Analysis before and after Training in Control Group
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/bci.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/bci/19.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -249,7 +249,7 @@ No significant difference is presented in their original concentration ability, 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/bci.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/bci/20.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -261,7 +261,7 @@ According to the analysis above, it can be concluded that the experimental group
 ### Analysis of the Game Reaction Time 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/bci.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/bci/21.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -278,7 +278,7 @@ To further analyze participants’ performance in each attention network, the pa
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/bci.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/bci/22.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
