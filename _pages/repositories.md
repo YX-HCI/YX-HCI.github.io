@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 permalink: /repositories/
 title: Repositories
 description: Several github repositories for projects.
