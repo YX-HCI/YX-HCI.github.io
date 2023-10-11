@@ -120,7 +120,7 @@ Phase 1 is to configure the hardware settings to detect and collect the brain si
 # Evaluation Experiments of the BCI Attention Training Game
 
 ## A. Preliminary Experiments  
-### Establishment of EEG Training Set  
+**Establishment of EEG Training Set**  
 
 
 <div class="row">
@@ -134,7 +134,7 @@ Phase 1 is to configure the hardware settings to detect and collect the brain si
 
 
 
-### Determination of Focus Value Thresholds
+**Determination of Focus Value Thresholds**
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -147,7 +147,7 @@ Phase 1 is to configure the hardware settings to detect and collect the brain si
 
 ## B. Formal Experiments
 
-### Participants
+**Participants**
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -159,7 +159,7 @@ Phase 1 is to configure the hardware settings to detect and collect the brain si
 </div>
 
 
-### Experiment Process
+**Experiment Process**
 The experimental process lasted 16 days and consisted of three parts.
 
 <div class="row">
@@ -172,7 +172,7 @@ The experimental process lasted 16 days and consisted of three parts.
 </div>
 
 
-### Evaluation Metrics
+**Evaluation Metrics**
 In children’s behavior evaluation, the Conners Child Behavior Scale (Parent Edition) was used. The four-point rating scale of 0, 1, 2, 3 (annotated by “Never”, “Sometimes”, “Often”, “Very often”) was used.
 
 To assess children’s concentration level, the Schulte Grid Test was adopted. Considering the young age of the children, a 4 × 4 size Schulte Grid Test was adopted in this experiment.

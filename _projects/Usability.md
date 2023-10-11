@@ -152,7 +152,7 @@ Two categories of measurement indicators were formulated: **objective and subjec
 
 
 ## B. Interface design analysis
-### (1) Superimposed heat map
+**(1) Superimposed heat map**
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -160,7 +160,7 @@ Two categories of measurement indicators were formulated: **objective and subjec
     </div>
 </div>
 <div class="caption">
-    Figure 1. Comparison of normal mode(the left side of each) and elder-friendly mode(the right side of each) of Alipay’s home page.
+    Comparison of normal mode(the left side of each) and elder-friendly mode(the right side of each) of Alipay’s home page.
     (left two): home page  (middle two): area of interest (right two): overall heat map 
 </div>
 
@@ -171,7 +171,7 @@ Two categories of measurement indicators were formulated: **objective and subjec
     </div>
 </div>
 <div class="caption">
-    Figure 2. Heat map of fixations of 8 users using Alipay's normal mode.
+    Heat map of fixations of 8 users using Alipay's normal mode.
 </div>
 
 
@@ -181,35 +181,36 @@ Two categories of measurement indicators were formulated: **objective and subjec
     </div>
 </div>
 <div class="caption">
-    Figure 3. Heat map of fixations of 8 users using Alipay's elder-friendly mode
+    Heat map of fixations of 8 users using Alipay's elder-friendly mode
 </div>
 
 
-### (2) AOI fixation rate of Alipay’s homepage 
+**(2) AOI fixation rate of Alipay’s homepage** 
 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/usability/微信截图_20231008001013.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/usability/图片15.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/usability/图片14.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Figure 4.  Superimposed eye-tracking data for task 3 4 5 in normal mode(left) and elder-friendly mode(right).
+    Superimposed eye-tracking data for task 3 4 5 in normal mode(left) and elder-friendly mode(right).
 </div>
 
-### (3) Task flow design analysis
+**(3) Task flow design analysis**
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/usability/微信截图_20231008001035.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/usability/图片16.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Figure 4.  Superimposed eye-tracking data for task 3 4 5 in normal mode(left) and elder-friendly mode(right).
+    Superimposed eye-tracking data for task 3 4 5 in normal mode(left) and elder-friendly mode(right).
 </div>
 
 # Discussion
