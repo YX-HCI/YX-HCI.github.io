@@ -36,7 +36,7 @@ The auditory-verbal training game named "Hear to See" was developed to assist he
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/gavt/gavt/1.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/gavt/gavt/1.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -123,7 +123,7 @@ The whole game process of all participants was recorded. Considering that the So
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/gavt/gavt/7.1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/gavt/gavt/7.1.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gavt/gavt/7.2.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -157,7 +157,7 @@ Particularly, an analysis strategy consisting of auditory memory evaluation, art
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/gavt/gavt/9.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/gavt/gavt/9.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -167,7 +167,7 @@ Particularly, an analysis strategy consisting of auditory memory evaluation, art
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/gavt/gavt/10.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/gavt/gavt/10.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -177,7 +177,7 @@ Particularly, an analysis strategy consisting of auditory memory evaluation, art
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/gavt/gavt/11.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/gavt/gavt/11.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -186,7 +186,7 @@ Particularly, an analysis strategy consisting of auditory memory evaluation, art
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/gavt/gavt/12.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/gavt/gavt/12.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -199,7 +199,7 @@ Particularly, an analysis strategy consisting of auditory memory evaluation, art
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/gavt/gavt/13.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/gavt/gavt/13.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -209,7 +209,7 @@ Particularly, an analysis strategy consisting of auditory memory evaluation, art
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/gavt/gavt/14.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/gavt/gavt/14.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -219,7 +219,7 @@ Particularly, an analysis strategy consisting of auditory memory evaluation, art
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/gavt/gavt/15.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/gavt/gavt/15.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -233,7 +233,7 @@ Particularly, an analysis strategy consisting of auditory memory evaluation, art
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/gavt/gavt/16.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/gavt/gavt/16.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -262,7 +262,7 @@ Through comparing children’s training performance between advanced and interme
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/gavt/gavt/18.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/gavt/gavt/18.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -271,7 +271,7 @@ Through comparing children’s training performance between advanced and interme
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/gavt/gavt/19.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/gavt/gavt/19.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -283,7 +283,7 @@ Through a comparison, it is extremely clear that children with intermediate audi
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/gavt/gavt/20.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/gavt/gavt/20.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -294,7 +294,7 @@ Through a comparison, it is extremely clear that children with intermediate audi
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/gavt/gavt/21.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/gavt/gavt/21.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

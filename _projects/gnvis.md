@@ -30,7 +30,7 @@ These coordinates were then clustered using the K-means algorithm, with the Cali
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/gnvis/gnvis/1.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/gnvis/gnvis/1.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -81,7 +81,7 @@ Four basic units for further research on the semantics of animated style were fi
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/gnvis/gnvis/4.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/gnvis/gnvis/4.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -201,7 +201,7 @@ A total of 24 subjects aged 20-30 years old participated in the memory test and 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/gnvis/gnvis/12.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/gnvis/gnvis/12.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -214,7 +214,7 @@ A total of 24 subjects aged 20-30 years old participated in the memory test and 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/gnvis/gnvis/13.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/gnvis/gnvis/13.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -229,7 +229,7 @@ A total of 24 subjects aged 20-30 years old participated in the memory test and 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/gnvis/gnvis/14.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/gnvis/gnvis/14.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -245,7 +245,7 @@ Utilizing usability testing tasks, subjective scales, and user feedback, we iden
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/gnvis/gnvis/15.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/gnvis/gnvis/15.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
