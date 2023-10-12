@@ -4,10 +4,12 @@ title: Co-creation through VR - DeGov4VC <a href="https://yx-hci.github.io/asset
 description: Decentralized Governance for Virtual Community (DeGov4VC)
 img: assets/img/project_imgs/p1.png
 importance: 1
-category: C1
+category: "VR, AI Agent, Co-creation"
 ---
 
 This is a project I led when I was being a research assistant in the MIT Media Lab-City Science Lab @ Shanghai for one year. And published as the first author in DIS ‘23 WiP.    
+
+**Project Video**: [DeGov4VC Video Link](https://www.youtube.com/watch?v=owun5EogaEg) 
 
 Here’s the project paper link: 
 

@@ -4,7 +4,7 @@ title: Accessibility and Usability <a href="https://yx-hci.github.io/assets/pdf/
 description: Enhancing Usability and Accessibility - Evaluation and Strategy for Elder-Friendly App Design
 img: assets/img/project_imgs/p2.png
 importance: 2
-category: C1
+category: "Accessibility and Usability" 
 ---
 
 This is a project I led when I was Information and Interaction Lab @ School of Design for over 2 year. And published as the first author in ISTE ‘22 conference.    

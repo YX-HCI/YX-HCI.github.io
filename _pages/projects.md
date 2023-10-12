@@ -5,7 +5,7 @@ permalink: /projects/
 description: Research & Engineer projects, roughly categorized by Robotics, Generative Models and Other.
 nav: true
 nav_order: 2
-display_categories: [C1]
+display_categories: ["Accessibility and Usability", "VR, AI Agent, Co-creation", "Visualization", "Gamified Training & Healthcare"]
 horizontal: false
 ---
 
