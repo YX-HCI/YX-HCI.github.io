@@ -7,6 +7,11 @@ importance: 3
 category: "Visualization"
 ---
 
+**Project Video**: 
+<video width="320" height="240" controls>
+  <source src="assets/img/video_gnvis.mp4" type="video/mp4">
+</video>
+
 # Abstract
 Animated posters have emerged as a dynamic form of visual expression in the new media era. With their vibrant visuals, engaging narratives, and flexible nature, they offer distinct advantages in enhancing audience experiences and conveying messages effectively. However, existing tools struggle to meet the diverse design needs and high demand. This paper aims to address these gaps by exploring a parametric design method for creating high-quality animated advertising materials more easily. Firstly, a combination of Kansei Engineering and machine learning methods is used to explore the relationship between animation properties and style perception, in order to help designers choose appropriate animations for their posters. Secondly, heuristic rules for poster design are synthesized, leading to the proposal of a parameterized design model. Finally, based on this model and the analysis of user research, a generation tool of animated advertising posters is designed and developed, catering to small and medium-sized businesses as well as junior designers. Users can leverage this platform by providing static materials and customizing styles to obtain visually expressive and communicatively efficient animated posters. In the comparative experiment evaluating poster quality, the results demonstrate that the animated advertising posters produced by the proposed model exhibit significantly greater design diversity and quality compared to existing platforms. Furthermore, a usability test reveals that the generation tool achieves better usability and effectiveness. These findings highlight the potential of the proposed tool to contribute to a more efficient and effective generation process.
 
