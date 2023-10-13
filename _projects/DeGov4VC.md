@@ -9,7 +9,15 @@ category: "VR, AI Agent, Co-creation"
 
 This is a project I led when I was being a research assistant in the MIT Media Lab-City Science Lab @ Shanghai for one year. And published as the first author in DIS ‘23 WiP.    
 
-**Project Video**: [DeGov4VC Video Link](https://www.youtube.com/watch?v=owun5EogaEg) 
+[//]: # (**Project Video**: [DeGov4VC Video Link]&#40;https://www.youtube.com/watch?v=owun5EogaEg&#41; )
+
+**Project Video**
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/img/DeGov4VC.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
 
 Here’s the project paper link: 
 
