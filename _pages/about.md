@@ -26,13 +26,13 @@ social: false  # includes social icons at the bottom of the page
 
 
 I am currently a third-year Master’s student in International Industrial Design Engineering (**GPA: 3.92/4.0, Rank: Top 5%**), 
-[School of Design](https://designschool.sjtu.edu.cn/en-us) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), 
+[School of Design](https://designschool.sjtu.edu.cn/en-us) at [**Shanghai Jiao Tong University (SJTU)**](https://en.sjtu.edu.cn/), 
 under the supervision of Prof. [Danni Chang (Associate Dean)](https://designschool.sjtu.edu.cn/teacher/31104c124abec4f853ad19c8530ab586/viceprofessor/detail/5ec4e69c77d93a7fe5885e88). 
-I am now also a visting student in [Data-Driven Innovation Lab](https://ddi.sutd.edu.sg/) at [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/), 
+I am now also a visting student in [**Data-Driven Innovation Lab**](https://ddi.sutd.edu.sg/) at [**Singapore University of Technology and Design (SUTD)**](https://www.sutd.edu.sg/), 
 under the supervision of Prof. [Jianxi Luo](https://epd.sutd.edu.sg/people/faculty/luo/).
 
-My broad research interests include Human-Computer Interaction (HCI), Human-AI Interaction (HAI), 
-Augmented and Virtual Reality (AR & VR), and their application in emultimodal human perception and engagement, 
+My broad research interests include **Human-Computer Interaction (HCI), Human-AI Interaction (HAI), 
+Augmented and Virtual Reality (AR & VR)**, and their application in emultimodal human perception and engagement, 
 pervasive computing, biofeedback in cognitive neuroscience, as well as data-driven approach to human centered computing and design.
 
 
@@ -49,22 +49,22 @@ This is the direction I am passionate about, something I think is meaningful, an
 I actively engaged in various research area and found my interest lied in HCI, and fueled my desire to become a researcher in the future. I believe that pursing a PhD in Human-Computer Interaction is the logical next step in my academic journey.
 
 #### Research Assistant
-- [NUS-HCI Lab](https://www.nus-hci.org/) of Department of Computer Science @ National University of Singapore, under the supervision of [Prof. Shengdong Zhao](https://www.shengdongzhao.com/);
+- [**NUS-HCI Lab**](https://www.nus-hci.org/) of Department of Computer Science @ National University of Singapore, under the supervision of Prof. [Shengdong Zhao](https://www.shengdongzhao.com/);
 
-- [MIT Media Lab CSL](https://www.csl-sh.org/) @ Shanghai, research assistan, under the supervision of Dr. [Yan Zhang (Ryan)](https://www.media.mit.edu/people/ryanz/overview/) and Prof. [Yang Liu](https://tjdi.tongji.edu.cn/TeacherDetail.do?id=1146&lang=_en)
+- [**MIT Media Lab CSL**](https://www.csl-sh.org/) @ Shanghai, research assistan, under the supervision of Dr. [Yan Zhang (Ryan)](https://www.media.mit.edu/people/ryanz/overview/) and Prof. [Yang Liu](https://tjdi.tongji.edu.cn/TeacherDetail.do?id=1146&lang=_en)
 
-- [Rui Jin Hospital - miHoYo Brain Computer Interface(BCI) Lab](https://rmlab.cn/) @ Clinical Neuroscience Center of Ruijin Hospital, under the supervision of Dr. [Chencheng Zhang](https://scholar.google.com/citations?user=SAxKuRsAAAAJ&hl=zh-CN), 
+- [**Rui Jin Hospital - miHoYo Brain Computer Interface(BCI) Lab**](https://rmlab.cn/) @ Clinical Neuroscience Center of Ruijin Hospital, under the supervision of Dr. [Chencheng Zhang](https://scholar.google.com/citations?user=SAxKuRsAAAAJ&hl=zh-CN), 
 Dr. [Odin van der Stelt](https://scholar.google.com/citations?user=Ugw6B7EAAAAJ&hl=en), and Prof. [Baoliang LU](https://bcmi.sjtu.edu.cn/home/blu/).  
 
-- [Cultural Innovation and Youth Development Institute](https://icci.sjtu.edu.cn/) @ University of Southern California(USC) & SJTU (collaborated), under the supervision of Prof. [Jian Xu](https://smc.sjtu.edu.cn/english.php/teacher/detail/id/168) 
+- [**Cultural Innovation and Youth Development Institute**](https://icci.sjtu.edu.cn/) @ University of Southern California(USC) & SJTU (collaborated), under the supervision of Prof. [Jian Xu](https://smc.sjtu.edu.cn/english.php/teacher/detail/id/168) 
 
-- [Interaction Design Lab](https://ixd-sjtu.github.io/IxD-web/about.html) @SJTU, under the supervision of Prof. [Danni Chang](https://designschool.sjtu.edu.cn/teacher/31104c124abec4f853ad19c8530ab586/viceprofessor/detail/5ec4e69c77d93a7fe5885e88) 
+- [**Interaction Design Lab**](https://ixd-sjtu.github.io/IxD-web/about.html) @SJTU, under the supervision of Prof. [Danni Chang](https://designschool.sjtu.edu.cn/teacher/31104c124abec4f853ad19c8530ab586/viceprofessor/detail/5ec4e69c77d93a7fe5885e88) 
 and Prof. [Zhenyu Gu](https://designschool.sjtu.edu.cn/teacher/31104c124abec4f853ad19c8530ab586/professor/detail/5ec6b6d1c4b4b304afeb5737).
 
 #### Summer Research
 - HCI·X Summer Research Program @ CityU & DKU & HKUST(GZ), under the supervision of Prof. [Ray LC](https://www.scm.cityu.edu.hk/people/ray-lc), Prof. [Xin Tong](https://xintong.ca/), and Prof. [Mingming Fan](https://www.mingmingfan.com/)
 
-- [Pervasive Human Computer Interaction Lab](https://pi.cs.tsinghua.edu.cn/), Department of Computer Science @ Tsinghua University (THU), and China Computer Federation(CCF)- HCI Technical Committee, under the supervision of 
+- [**Pervasive Human Computer Interaction Lab**](https://pi.cs.tsinghua.edu.cn/), Department of Computer Science @ **Tsinghua University (THU)**, and China Computer Federation(CCF)- HCI Technical Committee, under the supervision of 
 Prof. [Xin Yi](https://www.insc.tsinghua.edu.cn/info/1157/2453.htm), Prof. [Yuntao Wang](https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/), Prof. [Yuanchun Shi](https://pi.cs.tsinghua.edu.cn/people/#faculty)
 
 
