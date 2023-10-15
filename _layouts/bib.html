@@ -156,15 +156,15 @@
 
 
 
-<!--          &lt;!&ndash;    Add link to the paper website     &ndash;&gt;-->
-<!--          {%- if entry.weblink %}-->
-<!--            <a href="{{ entry.weblink }}" class="btn btn-sm z-depth-0" role="button">Website</a>-->
-<!--&lt;!&ndash;            {% if entry.pdf contains '://' -%}&ndash;&gt;-->
-<!--&lt;!&ndash;            <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>&ndash;&gt;-->
-<!--&lt;!&ndash;            {%- else -%}&ndash;&gt;-->
-<!--&lt;!&ndash;            <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>&ndash;&gt;-->
-<!--&lt;!&ndash;            {%- endif %}&ndash;&gt;-->
-<!--          {%- endif %}-->
+          <!--    Add link to the paper website     -->
+          {%- if entry.weblink %}
+            <a href="{{ entry.weblink }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+<!--            {% if entry.pdf contains '://' -%}-->
+<!--            <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>-->
+<!--            {%- else -%}-->
+<!--            <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>-->
+<!--            {%- endif %}-->
+          {%- endif %}
 
 
 
