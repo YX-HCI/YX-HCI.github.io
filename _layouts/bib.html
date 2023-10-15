@@ -119,12 +119,12 @@
             {%- capture entrymonth -%}{{ " " }}{{ entry.month | capitalize }}{%- endcapture -%}
           {%- endif -%}
 
+
+          {%- if entry.year -%}
+            {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}
+          {%- endif -%}
+
           <!--    Delete the year here      -->
-<!--          {%- if entry.year -%}-->
-<!--            {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}-->
-<!--          {%- endif -%}-->
-
-
 <!--          {%- capture periodical -%}{{ entrytype }}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}-->
           {%- capture periodical -%}{{ entrytype }}{%- endcapture -%}
           <div class="periodical">
