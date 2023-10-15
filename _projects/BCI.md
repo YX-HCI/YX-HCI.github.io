@@ -4,7 +4,8 @@ title: Multimodal BCI Game for Children <a href="https://yx-hci.github.io/assets
 description: Exploration of Brain-Computer Interaction for Supporting Children’s Attention Training - A Multimodal Design Based on Attention Network and Gamification.
 img: assets/img/project_imgs/p3.jpg
 importance: 3
-category: "Gamified Training & Healthcare"
+tags: "\[#Gamified Training, #Healthcare\] "
+category: "HCI"
 ---
 
 
@@ -129,7 +130,7 @@ Phase 1 is to configure the hardware settings to detect and collect the brain si
     </div>
 </div>
 <div class="caption">
-    Figure 14.EEG command training.
+    EEG command training.
 </div>
 
 
@@ -142,7 +143,7 @@ Phase 1 is to configure the hardware settings to detect and collect the brain si
     </div>
 </div>
 <div class="caption">
-    Figure 15.Recording time of Focus value measurement.
+    Recording time of Focus value measurement.
 </div>
 
 ## B. Formal Experiments

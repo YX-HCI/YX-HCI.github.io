@@ -5,7 +5,7 @@ permalink: /projects/
 description: TODO!!!
 nav: true
 nav_order: 2
-display_categories: ["Accessibility and Usability", "VR, AI Agent, Co-creation", "Visualization", "Gamified Training & Healthcare"]
+display_categories: [HCI, "Accessibility and Usability", "VR, AI Agent, Co-creation", "Visualization", "Gamified Training & Healthcare"]
 horizontal: false
 ---
 
