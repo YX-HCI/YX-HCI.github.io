@@ -9,7 +9,7 @@ subtitle: <svg width="3%" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 51
 
 profile:
   align: right
-  image: yan.png
+  image: yan.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Minhang, Shanghai, China</p>
