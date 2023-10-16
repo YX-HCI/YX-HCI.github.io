@@ -7,7 +7,8 @@ importance: 1
 category: "VR, AI Agent, Co-creation"
 ---
 
-This is a project I led when I was being a research assistant in the MIT Media Lab-City Science Lab @ Shanghai for one year. And published as the first author in DIS ‘23 WiP.    
+This is a project I led when I was being a research assistant in the MIT Media Lab-City Science Lab @ Shanghai for one year. And published as the first author in DIS ‘23 WiP.
+
 
 [//]: # (**Project Video**: [DeGov4VC Video Link]&#40;https://www.youtube.com/watch?v=owun5EogaEg&#41; )
 
