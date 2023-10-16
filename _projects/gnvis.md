@@ -5,7 +5,7 @@ description: A Style Matching Approach for the Generative Design of Animated Pos
 img: assets/img/project_imgs/gnvis/gnvis/0.png
 tags: "#Visualization. "
 importance: 3
-category: "HCI"
+category: "Visualization (VIS)"
 ---
 
 **Project Video**: 

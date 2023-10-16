@@ -5,7 +5,7 @@ description: The Impact of gavt for Hearing-Challenged Children at Intermediate 
 img: assets/img/project_imgs/gavt/gavt/title.png
 importance: 3
 tags:  "#Gamified Training, #Healthcare. "
-category: "HCI"
+category: "Human-Computer Interaction (HCI)"
 ---
 
 # Abstract

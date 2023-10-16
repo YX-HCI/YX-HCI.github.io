@@ -5,7 +5,7 @@ description: Enhancing Usability and Accessibility - Evaluation and Strategy for
 img: assets/img/project_imgs/p2.png
 tags: "#Accessibility, #Usability. "
 importance: 2
-category: "HCI" 
+category: "Human-Computer Interaction (HCI)" 
 ---
 
 This is a project I led when I was Information and Interaction Lab @ School of Design for over 2 year. And published as the first author in ISTE ‘22 conference.    

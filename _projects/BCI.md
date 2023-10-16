@@ -5,7 +5,7 @@ description: Exploration of Brain-Computer Interaction for Supporting Childrenâ€
 img: assets/img/project_imgs/p3.jpg
 importance: 3
 tags: "#Gamified Training, #Healthcare. "
-category: "HCI"
+category: "Human-Computer Interaction (HCI)"
 ---
 
 
