@@ -38,7 +38,10 @@ pervasive computing, biofeedback in cognitive neuroscience, as well as data-driv
 
 I am passionate about exploring how people interact with the world in a multimodal and natural way, with rich perceptions and emotions. And as a result, how we can enable people to have more unique and wonderful experiences in the way they interact with the world. I hope to work on this idea on the way to pursuing further study and feel more confident than ever to make it happen.
 
-This is the direction I am passionate about, something I think is meaningful, and something I will stick to. 
+My hobbies contain Tennis (Singles Final Four at NEU), Writing, Hiking, Painting and Meditating :)
+
+
+[//]: # (This is the direction I am passionate about, something I think is meaningful, and something I will stick to. )
 
 
 
