@@ -62,7 +62,7 @@ Dr. [Odin van der Stelt](https://scholar.google.com/citations?user=Ugw6B7EAAAAJ&
 and Prof. [Zhenyu Gu](https://designschool.sjtu.edu.cn/teacher/31104c124abec4f853ad19c8530ab586/professor/detail/5ec6b6d1c4b4b304afeb5737).
 
 #### Summer Research
-- HCI·X Summer Research Program @ CityU & DKU & HKUST(GZ), under the supervision of Prof. [Ray LC](https://www.scm.cityu.edu.hk/people/ray-lc), Prof. [Xin Tong](https://xintong.ca/), and Prof. [Mingming Fan](https://www.mingmingfan.com/)
+- **HCI·X Summer Research Program @ CityU & DKU & HKUST(GZ)**, under the supervision of Prof. [Ray LC](https://www.scm.cityu.edu.hk/people/ray-lc), Prof. [Xin Tong](https://xintong.ca/), and Prof. [Mingming Fan](https://www.mingmingfan.com/)
 
 - [**Pervasive Human Computer Interaction Lab**](https://pi.cs.tsinghua.edu.cn/), Department of Computer Science @ **Tsinghua University (THU)**, and China Computer Federation(CCF)- HCI Technical Committee, under the supervision of 
 Prof. [Xin Yi](https://www.insc.tsinghua.edu.cn/info/1157/2453.htm), Prof. [Yuntao Wang](https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/), Prof. [Yuanchun Shi](https://pi.cs.tsinghua.edu.cn/people/#faculty)

@@ -3,14 +3,15 @@ layout: page
 title: Accessibility and Usability <a href="https://yx-hci.github.io/assets/pdf/Usability.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
 description: Enhancing Usability and Accessibility - Evaluation and Strategy for Elder-Friendly App Design
 img: assets/img/project_imgs/p2.png
+tags: "#Accessibility, #Usability. "
 importance: 2
-category: "Accessibility and Usability" 
+category: "HCI" 
 ---
 
 This is a project I led when I was Information and Interaction Lab @ School of Design for over 2 year. And published as the first author in ISTE ‘22 conference.    
 
 Here’s the project paper link:
-- Xiang, Y., Chang, D., Yao, Y., Wang, L., Chen, A., & Li, J. (2022). Usability Evaluation of Elder-Friendly Design: Application to Take Alipay App. In Transdisciplinarity and the Future of Engineering (pp. 154-163), IOS Press, https://doi.org/10.3233/ATDE220642.
+- **Xiang, Y.**, Chang, D., Yao, Y., Wang, L., Chen, A., & Li, J. (2022). Usability Evaluation of Elder-Friendly Design: Application to Take Alipay App. _In Transdisciplinarity and the Future of Engineering (pp. 154-163), IOS Press, https://doi.org/10.3233/ATDE220642._
 
 
 With the permeation of mobile intelligent devices, various applications have become necessary for people to obtain essential services. Although many apps claim that they have considered the use of seniors and developed elder-friendly modes, research has shown that there are still significant problems for senior people in actually using these apps.

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects
+title: Research
 permalink: /projects/
-description: Research & Engineer projects, roughly categorized by Robotics, Generative Models and Other.
+description: TODO!!!
 nav: true
 nav_order: 2
-display_categories: ["Accessibility and Usability", "VR, AI Agent, Co-creation", "Visualization", "Gamified Training & Healthcare"]
+display_categories: ["HCI"]
 horizontal: false
 ---
 

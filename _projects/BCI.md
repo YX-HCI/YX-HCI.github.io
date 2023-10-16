@@ -4,7 +4,8 @@ title: Multimodal BCI Game for Children <a href="https://yx-hci.github.io/assets
 description: Exploration of Brain-Computer Interaction for Supporting Children’s Attention Training - A Multimodal Design Based on Attention Network and Gamification.
 img: assets/img/project_imgs/p3.jpg
 importance: 3
-category: "Gamified Training & Healthcare"
+tags: "#Gamified Training, #Healthcare. "
+category: "HCI"
 ---
 
 
@@ -12,7 +13,7 @@ category: "Gamified Training & Healthcare"
 This is a project I led when I was Information and Interaction Lab @ School of Design for over 2 year. And published as the first student author in IJERPH.    
 
 Here’s the project paper link: 
-- Chang, D., Xiang, Y., Zhao, J., Qian, Y., & Li, F. (2022). Exploration of Brain-Computer Interaction for Supporting Children’s Attention Training: A Multimodal Design Based on Attention Network and Gamification Design.International Journal of Environmental Research and Public Health, 19(22), 15046, https://doi.org/10.3390/ijerph192215046, (SCI, IF=4.614, JCR Q1, First student author).
+- Chang, D., **Xiang, Y.**, Zhao, J., Qian, Y., & Li, F. (2022). Exploration of Brain-Computer Interaction for Supporting Children’s Attention Training: A Multimodal Design Based on Attention Network and Gamification Design. _International Journal of Environmental Research and Public Health, 19(22), 15046, https://doi.org/10.3390/ijerph192215046, (SCI, IF=4.614, JCR Q1, First student author)._
 
 
 
@@ -129,7 +130,7 @@ Phase 1 is to configure the hardware settings to detect and collect the brain si
     </div>
 </div>
 <div class="caption">
-    Figure 14.EEG command training.
+    EEG command training.
 </div>
 
 
@@ -142,7 +143,7 @@ Phase 1 is to configure the hardware settings to detect and collect the brain si
     </div>
 </div>
 <div class="caption">
-    Figure 15.Recording time of Focus value measurement.
+    Recording time of Focus value measurement.
 </div>
 
 ## B. Formal Experiments

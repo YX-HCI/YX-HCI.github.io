@@ -4,7 +4,8 @@ title: Co-creation through VR - DeGov4VC <a href="https://yx-hci.github.io/asset
 description: Decentralized Governance for Virtual Community (DeGov4VC)
 img: assets/img/project_imgs/p1.png
 importance: 1
-category: "VR, AI Agent, Co-creation"
+tags: "#VR, #AI Agent, #Co-creation. "
+category: "HCI"
 ---
 
 This is a project I led when I was being a research assistant in the MIT Media Lab-City Science Lab @ Shanghai for one year. And published as the first author in DIS ‘23 WiP.
@@ -22,7 +23,7 @@ This is a project I led when I was being a research assistant in the MIT Media L
 
 Here’s the project paper link: 
 
-- Yan Xiang, Qianhui Fan, Kejiang Qian, Jiajie Li, Yuying Tang, and Ze Gao. (2023). “Decentralized Governance for Virtual Community (DeGov4VC): Optimal Policy Design of Human-plant Symbiosis Co-creation.” In Companion Publication of the 2023 ACM Designing Interactive Systems Conference (DIS '23 Companion). Association for Computing Machinery, New York, NY, USA, 207–212. https://doi.org/10.1145/3563703.3596621, (ACM).
+- **Yan Xiang**, Qianhui Fan, Kejiang Qian, Jiajie Li, Yuying Tang, and Ze Gao. (2023). “Decentralized Governance for Virtual Community (DeGov4VC): Optimal Policy Design of Human-plant Symbiosis Co-creation.” _In Companion Publication of the 2023 ACM Designing Interactive Systems Conference (DIS '23 Companion). Association for Computing Machinery, New York, NY, USA, 207–212. https://doi.org/10.1145/3563703.3596621, (ACM)._
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
