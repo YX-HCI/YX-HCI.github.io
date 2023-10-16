@@ -18,11 +18,11 @@ Analysis of the core literature in the Web of Science indicates a quantifiable g
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/Multi-ModalEmotionRegulation/1.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/Multi-ModalEmotionRegulation/1.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    **Figure 1.** Knowledge graph analysis of the connection between emotions and brain-computer relations.
+    Figure 1. Knowledge graph analysis of the connection between emotions and brain-computer relations.
 </div>
 
 
@@ -63,7 +63,7 @@ Utilizing different frequency data, brain-machine interface signals were process
     </div>
 </div>
 <div class="caption">
-    **Figure 2.** DEMO development of monitoring and identification system.
+    Figure 2. DEMO development of monitoring and identification system.
 
 </div>
 
@@ -78,7 +78,7 @@ Utilizing different frequency data, brain-machine interface signals were process
 </div>
 
 <div class="caption">
-    **Figure 3.** DEMO development process.
+    Figure 3. DEMO development process.
 </div>
 
 
@@ -97,7 +97,7 @@ Six categories of video stimuli were selected to validate their impact on user e
     </div>
 </div>
 <div class="caption">
-    **Figure 4.** Preliminary experiment process.
+    Figure 4. Preliminary experiment process.
 
 </div>
 
@@ -111,7 +111,7 @@ Six categories of video stimuli were selected to validate their impact on user e
 </div>
 
 <div class="caption">
-    **Figure 5.** Formal experiment process.
+    Figure 5. Formal experiment process.
 </div>
 
 
@@ -126,7 +126,7 @@ Customized emotion management includes monitoring and regulation. The monitoring
     </div>
 </div>
 <div class="caption">
-    **Figure 4.** APP Demo of management and service system
+    Figure 4. APP Demo of management and service system
 
 </div>
 

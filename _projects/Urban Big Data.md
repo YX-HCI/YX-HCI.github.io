@@ -38,9 +38,9 @@ Taking Starbucks in Tianhe District as an example, we use big data visualization
 ### a.Land use &Land price:
 According to the nature of different land, select a number of representative target points in Tianhe District and calculate the average land price.
 ### b.Flow of people:
-	Using Tencent's pedestrian traffic detection as a tool to record real-time traffic data. The tool collects video based on the embedded camera lens, then performs parallax calculation on the video images of the two cameras to form a 3D image of the person in the video, and then analyzes the shape and height of the human body, sets the statistics by region and direction to calculate the number of passengers.
+Using Tencent's pedestrian traffic detection as a tool to record real-time traffic data. The tool collects video based on the embedded camera lens, then performs parallax calculation on the video images of the two cameras to form a 3D image of the person in the video, and then analyzes the shape and height of the human body, sets the statistics by region and direction to calculate the number of passengers.
 ### c.Transportation:
-	The traffic information is abstracted into public transportation coverage, including the radiation coverage density of bus stops and subway  stations. The locations of relevant bus stops and subway stations are collected and analyzed for subsequent correlation analysis.
+The traffic information is abstracted into public transportation coverage, including the radiation coverage density of bus stops and subway  stations. The locations of relevant bus stops and subway stations are collected and analyzed for subsequent correlation analysis.
 
 # Result Analysis
 ## Spatial Distribution Analysis 
