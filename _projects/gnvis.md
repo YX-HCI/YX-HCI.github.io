@@ -4,7 +4,7 @@ title: Generative Design & Visualization <a href="https://yx-hci.github.io/asset
 description: A Style Matching Approach for the Generative Design of Animated Posters
 img: assets/img/project_imgs/gnvis/gnvis/0.png
 tags: "#Visualization. "
-importance: 3
+importance: 1
 category: "Visualization (VIS)"
 ---
 

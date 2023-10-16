@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Multi-Modal Emotion Regulation via Brain-Computer Interaction <a href="https://yx-hci.github.io/assets/pdf/BCI.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
-description: [#Brain Cumputer Interaction, #Emotion, #HRI.] 
-
-A System Design for Multi-Modal Emotion Regulation and Management in Human-Robot and Human-Computer Interactions.
+title: Neuro-Enhanced Emotional Interaction 
+tags: "#Brain Cumputer Interaction, #Emotion, #HRI. "
+description: A System Design for Multi-Modal Emotion Regulation and Management in Human-Robot and Human-Computer Interactions.
 img: assets/img/project_imgs/Multi-ModalEmotionRegulation/title.png
-importance: 3
+importance: 6
 category: "Human-Computer Interaction (HCI)"
 ---
 

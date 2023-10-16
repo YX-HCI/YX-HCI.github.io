@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Urban Big Data and Interactive Analytics <a href="https://yx-hci.github.io/assets/pdf/BCI.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
-description: [#Urban Big Data, #Spatial Computing, #Business Strategies.] 
-
-Leveraging Urban Big Data for Informed Business Location Decisions.
+title: Urban Big Data and Interactive Analytics <a href="https://yx-hci.github.io/assets/pdf/urbanbigdata.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
+description: Leveraging Urban Big Data for Informed Business Location Decisions.
 img: assets/img/project_imgs/UrbanBigData/Urbanbigdata.png
-importance: 3
+importance: 2
+tags: "#Urban Big Data, #Spatial Computing, #Business Strategies. "
 category: "Visualization (VIS)"
 ---
 

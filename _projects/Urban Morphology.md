@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Urban Big Data and Interactive Analytics <a href="https://yx-hci.github.io/assets/pdf/BCI.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
-description: [#Urban Morphology, #Modeling and Simulation.] 
-
-Exploring the Correlation between Urban Microclimate Simulation and Urban Morphology.
+title: Exploring the Correlation between Urban Microclimate Simulation and Urban Morphology <a href="https://yx-hci.github.io/assets/pdf/urbanmor.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
+description: Exploring the Correlation between Urban Microclimate Simulation and Urban Morphology.
 img: assets/img/project_imgs/UrbanMorphology/UrbanMorphology.png
 importance: 3
+tags: "#Urban Morphology, #Modeling and Simulation."
 category: "Visualization (VIS)"
 ---
 

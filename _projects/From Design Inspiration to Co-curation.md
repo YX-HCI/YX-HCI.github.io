@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Exploring Human-AI Co-creation Approach in VR Exhibitions <a href="https://yx-hci.github.io/assets/pdf/BCI.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
-description: [#Generative AI, #Co-curation, #Digital Exhibition.] 
-
-From Design Inspiration to Co-curation: The Changing Role of Curatorial Practice in a Digital Generative AI Landscape for the Arts.
-img: assets/img/project_imgs/p3.jpg
-importance: 3
+title: From Design Inspiration to Co-curation 
+tags: "#Generative AI, #Co-curation, #Digital Exhibition. "
+description: The Changing Role of Curatorial Practice in a Digital Generative AI Landscape for the Arts.
+img: assets/img/project_imgs/FromDesignInspirationtoCo-curation/title.png
+importance: 5
 category: "Human-Computer Interaction (HCI)"
 ---
 
@@ -25,7 +24,7 @@ To address these research questions, we initiated our investigation by conductin
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/1.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/FromDesignInspirationtoCo-curation/1.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -35,7 +34,7 @@ To address these research questions, we initiated our investigation by conductin
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/2.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/FromDesignInspirationtoCo-curation/2.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -46,7 +45,7 @@ To address these research questions, we initiated our investigation by conductin
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/3.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/FromDesignInspirationtoCo-curation/3.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -57,7 +56,7 @@ To address these research questions, we initiated our investigation by conductin
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/4.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/FromDesignInspirationtoCo-curation/4.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -68,7 +67,7 @@ To address these research questions, we initiated our investigation by conductin
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/5.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/FromDesignInspirationtoCo-curation/5.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -79,7 +78,7 @@ To address these research questions, we initiated our investigation by conductin
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/6.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/FromDesignInspirationtoCo-curation/6.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -90,7 +89,7 @@ To address these research questions, we initiated our investigation by conductin
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project_imgs/bci/7.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project_imgs/FromDesignInspirationtoCo-curation/7.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
