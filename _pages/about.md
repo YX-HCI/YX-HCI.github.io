@@ -72,7 +72,7 @@ Prof. [Xin Yi](https://www.insc.tsinghua.edu.cn/info/1157/2453.htm), Prof. [Yunt
 
 
 #### Exchange and Visiting
-- Visiting Student, [Data-Driven Innovation Lab](https://ddi.sutd.edu.sg/), Engineering Product Development Pillar, [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/), September 2023 - December 2023 (Expected)   
-- Exchange Student, [Seoul National University](https://en.snu.ac.kr/), [Department of Architecture and Architectural Engineering](https://architecture.snu.ac.kr/), Collge of Engineering, September 2018 - June 2019
-- Summer Exchange Student, [Bauhaus-Universität Weimar](https://www.uni-weimar.de/de/universitaet/start/), Architecture and Urbanism, June 2019 - August 2019
+- **Visiting Student**, [**Data-Driven Innovation Lab**](https://ddi.sutd.edu.sg/), Engineering Product Development Pillar, [**Singapore University of Technology and Design (SUTD)**](https://www.sutd.edu.sg/), September 2023 - December 2023 (Expected)   
+- **Exchange Student**, [**Seoul National University**](https://en.snu.ac.kr/), [**Department of Architecture and Architectural Engineering**](https://architecture.snu.ac.kr/), Collge of Engineering, September 2018 - June 2019
+- **Summer Exchange Student**, [**Bauhaus-Universität Weimar**](https://www.uni-weimar.de/de/universitaet/start/), Architecture and Urbanism, June 2019 - August 2019
 
