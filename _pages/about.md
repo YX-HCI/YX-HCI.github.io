@@ -12,9 +12,11 @@ profile:
   image: yan.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Minhang, Shanghai, China</p>
+    <p>Shanghai, China</p>
     
-    <p><a href="https://scholar.google.com/citations?hl=zh-CN&user=NafmySAAAAAJ"><svg width="10%" xmlns="http://www.w3.org/2000/svg" aria-label="Google Scholar" role="img" viewBox="0 0 512 512"><rect width="512" height="512" rx="15%" fill="#4285f4"/><path fill="#fff" d="M213 111l-107 94h69c5 45 41 64 78 67-7 18-4 27 7 39-43 1-103 26-103 67 4 45 63 54 92 54 38 1 81-19 90-54 4-35-10-54-31-71-23-18-28-28-21-40 15-17 35-27 39-51 2-17-2-28-6-43l45-38-1 16c-3 2-5 6-5 9v103c2 13 22 11 23 0V160c0-3-2-7-5-8v-25l16-16zm58 141c-61 10-87-87-38-99 56-11 83 86 38 99zm-5 73c60 13 61 63 10 78-44 9-82-4-81-30 0-25 35-48 71-48z"/></vg></a>  <a href="https://www.linkedin.com/in/yue-yang-6a1493185/"><?xml version="1.0" encoding="iso-8859-1"?> <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --> <svg width="10%" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 382 382" style="enable-background:new 0 0 382 382;" xml:space="preserve"> <path style="fill:#0077B7;" d="M347.445,0H34.555C15.471,0,0,15.471,0,34.555v312.889C0,366.529,15.471,382,34.555,382h312.889 C366.529,382,382,366.529,382,347.444V34.555C382,15.471,366.529,0,347.445,0z M118.207,329.844c0,5.554-4.502,10.056-10.056,10.056 H65.345c-5.554,0-10.056-4.502-10.056-10.056V150.403c0-5.554,4.502-10.056,10.056-10.056h42.806 c5.554,0,10.056,4.502,10.056,10.056V329.844z M86.748,123.432c-22.459,0-40.666-18.207-40.666-40.666S64.289,42.1,86.748,42.1 s40.666,18.207,40.666,40.666S109.208,123.432,86.748,123.432z M341.91,330.654c0,5.106-4.14,9.246-9.246,9.246H286.73 c-5.106,0-9.246-4.14-9.246-9.246v-84.168c0-12.556,3.683-55.021-32.813-55.021c-28.309,0-34.051,29.066-35.204,42.11v97.079 c0,5.106-4.139,9.246-9.246,9.246h-44.426c-5.106,0-9.246-4.14-9.246-9.246V149.593c0-5.106,4.14-9.246,9.246-9.246h44.426 c5.106,0,9.246,4.14,9.246,9.246v15.655c10.497-15.753,26.097-27.912,59.312-27.912c73.552,0,73.131,68.716,73.131,106.472 L341.91,330.654L341.91,330.654z"/> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> </svg></a>  <a href="https://twitter.com/YYang9923"><svg width="10%" xmlns="http://www.w3.org/2000/svg" aria-label="Twitter" role="img" viewBox="0 0 512 512"><rect width="512" height="512" rx="15%" fill="#1da1f2"/><path fill="#fff" d="M437 152a72 72 0 01-40 12a72 72 0 0032-40a72 72 0 01-45 17a72 72 0 00-122 65a200 200 0 01-145-74a72 72 0 0022 94a72 72 0 01-32-7a72 72 0 0056 69a72 72 0 01-32 1a72 72 0 0067 50a200 200 0 01-105 29a200 200 0 00309-179a200 200 0 0035-37"/></svg></a> </p>
+    
+
+    <p><a href="https://scholar.google.com/citations?hl=zh-CN&user=m-LrXAEAAAAJ"><svg width="10%" xmlns="http://www.w3.org/2000/svg" aria-label="Google Scholar" role="img" viewBox="0 0 512 512"></p>
 
     <p></p>
     
@@ -24,19 +26,17 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+[//]: # (<p><a href="https://scholar.google.com/citations?hl=zh-CN&user=m-LrXAEAAAAJ"><svg width="10%" xmlns="http://www.w3.org/2000/svg" aria-label="Google Scholar" role="img" viewBox="0 0 512 512"><rect width="512" height="512" rx="15%" fill="#4285f4"/><path fill="#fff" d="M213 111l-107 94h69c5 45 41 64 78 67-7 18-4 27 7 39-43 1-103 26-103 67 4 45 63 54 92 54 38 1 81-19 90-54 4-35-10-54-31-71-23-18-28-28-21-40 15-17 35-27 39-51 2-17-2-28-6-43l45-38-1 16c-3 2-5 6-5 9v103c2 13 22 11 23 0V160c0-3-2-7-5-8v-25l16-16zm58 141c-61 10-87-87-38-99 56-11 83 86 38 99zm-5 73c60 13 61 63 10 78-44 9-82-4-81-30 0-25 35-48 71-48z"/></vg></a>  <a href="https://www.linkedin.com/in/yue-yang-6a1493185/"><?xml version="1.0" encoding="iso-8859-1"?> <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0&#41;  --> <svg width="10%" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 382 382" style="enable-background:new 0 0 382 382;" xml:space="preserve"> <path style="fill:#0077B7;" d="M347.445,0H34.555C15.471,0,0,15.471,0,34.555v312.889C0,366.529,15.471,382,34.555,382h312.889 C366.529,382,382,366.529,382,347.444V34.555C382,15.471,366.529,0,347.445,0z M118.207,329.844c0,5.554-4.502,10.056-10.056,10.056 H65.345c-5.554,0-10.056-4.502-10.056-10.056V150.403c0-5.554,4.502-10.056,10.056-10.056h42.806 c5.554,0,10.056,4.502,10.056,10.056V329.844z M86.748,123.432c-22.459,0-40.666-18.207-40.666-40.666S64.289,42.1,86.748,42.1 s40.666,18.207,40.666,40.666S109.208,123.432,86.748,123.432z M341.91,330.654c0,5.106-4.14,9.246-9.246,9.246H286.73 c-5.106,0-9.246-4.14-9.246-9.246v-84.168c0-12.556,3.683-55.021-32.813-55.021c-28.309,0-34.051,29.066-35.204,42.11v97.079 c0,5.106-4.139,9.246-9.246,9.246h-44.426c-5.106,0-9.246-4.14-9.246-9.246V149.593c0-5.106,4.14-9.246,9.246-9.246h44.426 c5.106,0,9.246,4.14,9.246,9.246v15.655c10.497-15.753,26.097-27.912,59.312-27.912c73.552,0,73.131,68.716,73.131,106.472 L341.91,330.654L341.91,330.654z"/> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> </svg></a>  <a href="https://twitter.com/YYang9923"><svg width="10%" xmlns="http://www.w3.org/2000/svg" aria-label="Twitter" role="img" viewBox="0 0 512 512"><rect width="512" height="512" rx="15%" fill="#1da1f2"/><path fill="#fff" d="M437 152a72 72 0 01-40 12a72 72 0 0032-40a72 72 0 01-45 17a72 72 0 00-122 65a200 200 0 01-145-74a72 72 0 0022 94a72 72 0 01-32-7a72 72 0 0056 69a72 72 0 01-32 1a72 72 0 0067 50a200 200 0 01-105 29a200 200 0 00309-179a200 200 0 0035-37"/></svg></a> </p>)
 
 I am currently a third-year Master’s student in International Industrial Design Engineering (**GPA: 3.92/4.0, Rank: Top 5%**), 
 [School of Design](https://designschool.sjtu.edu.cn/en-us) at [**Shanghai Jiao Tong University (SJTU)**](https://en.sjtu.edu.cn/), 
 under the supervision of Prof. [Danni Chang (Associate Dean)](https://designschool.sjtu.edu.cn/teacher/31104c124abec4f853ad19c8530ab586/viceprofessor/detail/5ec4e69c77d93a7fe5885e88). 
-I am now also a visting student in [**Data-Driven Innovation Lab**](https://ddi.sutd.edu.sg/) at [**Singapore University of Technology and Design (SUTD)**](https://www.sutd.edu.sg/), 
+I am now also a visting student in [Data-Driven Innovation Lab](https://ddi.sutd.edu.sg/) at [**Singapore University of Technology and Design (SUTD)**](https://www.sutd.edu.sg/), 
 under the supervision of Prof. [Jianxi Luo](https://epd.sutd.edu.sg/people/faculty/luo/).
 
-My broad research interests include **Human-Computer Interaction (HCI), Human-AI Interaction (HAI), 
-Augmented and Virtual Reality (AR & VR)**, and their application in emultimodal human perception and engagement, 
-pervasive computing, biofeedback in cognitive neuroscience, as well as data-driven approach to human centered computing and design.
+My broad research interests include **Human-Computer Interaction (HCI)**, **Human-AI Interaction (HAI)**, **Visualization(VIS)**, and their application to Multimodal Human Perception and Engagement, Accessibility, Extended Reality, Emotion AI, as well as Data-driven Approach to Human-centered Computing and Design.
 
-
-I am passionate about exploring how people interact with the world in a multimodal and natural way, with rich perceptions and emotions. And as a result, how we can enable people to have more unique and wonderful experiences in the way they interact with the world. I hope to work on this idea on the way to pursuing further study and feel more confident than ever to make it happen.
+I am passionate about exploring how people can better interact with the world in a multimodal and natural way, enriched with diverse perceptions and emotions. I hope to work on this idea on the way to pursuing further study and feel more confident than ever to make it happen.
 
 My hobbies contain Tennis (Singles Final Four at NEU), Writing, Hiking, Painting and Meditating :)
 
@@ -72,7 +72,26 @@ Prof. [Xin Yi](https://www.insc.tsinghua.edu.cn/info/1157/2453.htm), Prof. [Yunt
 
 
 #### Exchange and Visiting
-- **Visiting Student**, [**Data-Driven Innovation Lab**](https://ddi.sutd.edu.sg/), Engineering Product Development Pillar, [**Singapore University of Technology and Design (SUTD)**](https://www.sutd.edu.sg/), September 2023 - December 2023 (Expected)   
-- **Exchange Student**, [**Seoul National University**](https://en.snu.ac.kr/), [**Department of Architecture and Architectural Engineering**](https://architecture.snu.ac.kr/), Collge of Engineering, September 2018 - June 2019
+- **Visiting Student**, [Data-Driven Innovation Lab](https://ddi.sutd.edu.sg/), Engineering Product Development Pillar, [**Singapore University of Technology and Design (SUTD)**](https://www.sutd.edu.sg/), September 2023 - January 2023 (Expected)   
+- **Exchange Student**, College of Engineering, [**Seoul National University (SNU)**](https://en.snu.ac.kr/), [**Department of Architecture and Architectural Engineering**](https://architecture.snu.ac.kr/), Collge of Engineering, September 2018 - June 2019
 - **Summer Exchange Student**, [**Bauhaus-Universität Weimar**](https://www.uni-weimar.de/de/universitaet/start/), Architecture and Urbanism, June 2019 - August 2019
 
+<p>
+<a href="https://scholar.google.com/citations?hl=zh-CN&user=m-LrXAEAAAAJ">
+<svg width="10%" xmlns="http://www.w3.org/2000/svg" aria-label="Google Scholar" role="img" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="15%" fill="#4285f4"/>
+<path fill="#fff" d="M213 111l-107 94h69c5 45 41 64 78 67-7 18-4 27 7 39-43 1-103 26-103 67 4 45 63 54 92 54 38 1 81-19 90-54 4-35-10-54-31-71-23-18-28-28-21-40 15-17 35-27 39-51 2-17-2-28-6-43l45-38-1 16c-3 2-5 6-5 9v103c2 13 22 11 23 0V160c0-3-2-7-5-8v-25l16-16zm58 141c-61 10-87-87-38-99 56-11 83 86 38 99zm-5 73c60 13 61 63 10 78-44 9-82-4-81-30 0-25 35-48 71-48z"/></vg></a>  
+
+<a href="https://www.linkedin.com/in/yue-yang-6a1493185/">
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --> 
+<svg width="10%" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 382 382" style="enable-background:new 0 0 382 382;" xml:space="preserve"> <path style="fill:#0077B7;" d="M347.445,0H34.555C15.471,0,0,15.471,0,34.555v312.889C0,366.529,15.471,382,34.555,382h312.889 C366.529,382,382,366.529,382,347.444V34.555C382,15.471,366.529,0,347.445,0z M118.207,329.844c0,5.554-4.502,10.056-10.056,10.056 H65.345c-5.554,0-10.056-4.502-10.056-10.056V150.403c0-5.554,4.502-10.056,10.056-10.056h42.806 c5.554,0,10.056,4.502,10.056,10.056V329.844z M86.748,123.432c-22.459,0-40.666-18.207-40.666-40.666S64.289,42.1,86.748,42.1 s40.666,18.207,40.666,40.666S109.208,123.432,86.748,123.432z M341.91,330.654c0,5.106-4.14,9.246-9.246,9.246H286.73 c-5.106,0-9.246-4.14-9.246-9.246v-84.168c0-12.556,3.683-55.021-32.813-55.021c-28.309,0-34.051,29.066-35.204,42.11v97.079 c0,5.106-4.139,9.246-9.246,9.246h-44.426c-5.106,0-9.246-4.14-9.246-9.246V149.593c0-5.106,4.14-9.246,9.246-9.246h44.426 c5.106,0,9.246,4.14,9.246,9.246v15.655c10.497-15.753,26.097-27.912,59.312-27.912c73.552,0,73.131,68.716,73.131,106.472 L341.91,330.654L341.91,330.654z"/> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> 
+</svg>
+</a> 
+
+<a href="https://twitter.com/YYang9923">
+<svg width="10%" xmlns="http://www.w3.org/2000/svg" aria-label="Twitter" role="img" viewBox="0 0 512 512"><rect width="512" height="512" rx="15%" fill="#1da1f2"/><path fill="#fff" d="M437 152a72 72 0 01-40 12a72 72 0 0032-40a72 72 0 01-45 17a72 72 0 00-122 65a200 200 0 01-145-74a72 72 0 0022 94a72 72 0 01-32-7a72 72 0 0056 69a72 72 0 01-32 1a72 72 0 0067 50a200 200 0 01-105 29a200 200 0 00309-179a200 200 0 0035-37"/>
+</svg>
+</a> 
+
+</p>

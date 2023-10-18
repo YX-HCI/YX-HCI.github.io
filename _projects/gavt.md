@@ -1,12 +1,14 @@
 ---
 layout: page
 title: Gamified Auditory-Verbal Training <a href="https://yx-hci.github.io/assets/pdf/gavt.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
-description: The Impact of gavt for Hearing-Challenged Children at Intermediate and Advanced Rehabilitation Stages.
+description: The Impact of Gamified Auditory-Verbal Training for Hearing-Challenged Children at Intermediate and Advanced Rehabilitation Stages.
 img: assets/img/project_imgs/gavt/gavt/title.png
 importance: 4
 tags:  "#Gamified Training, #Healthcare. "
 category: "Human-Computer Interaction (HCI)"
 ---
+
+
 
 # Abstract
 
