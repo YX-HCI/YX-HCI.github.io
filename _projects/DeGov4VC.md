@@ -21,6 +21,8 @@ This is a project I led when I was being a research assistant in the MIT Media L
     </div>
 </div>
 
+Youtube video link: [DeGov4VC - YouTube](https://www.youtube.com/watch?v=owun5EogaEg)
+
 Here’s the project paper link: 
 
 - **Yan Xiang**, Qianhui Fan, Kejiang Qian, Jiajie Li, Yuying Tang, and Ze Gao. (2023). “Decentralized Governance for Virtual Community (DeGov4VC): Optimal Policy Design of Human-plant Symbiosis Co-creation.” _In Companion Publication of the 2023 ACM Designing Interactive Systems Conference (DIS '23 Companion). Association for Computing Machinery, New York, NY, USA, 207–212. https://doi.org/10.1145/3563703.3596621, (ACM)._

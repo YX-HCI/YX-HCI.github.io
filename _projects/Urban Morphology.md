@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Urban Computing  and Human Behavior Insights <a href="https://yx-hci.github.io/assets/pdf/urbanmor.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
+title: Urban Computing and Human Behavior <a href="https://yx-hci.github.io/assets/pdf/urbanmor.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
 description: Exploring the Correlation between Urban Microclimate Simulation and Urban Morphology.
 img: assets/img/project_imgs/UrbanMorphology/UrbanMorphology.png
 importance: 3
