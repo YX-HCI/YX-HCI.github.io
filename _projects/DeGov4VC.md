@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Co-creation through VR - DeGov4VC <a href="https://yx-hci.github.io/assets/pdf/Paper-DeGov4VC.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
-description: Decentralized Governance for Virtual Community (DeGov4VC): Optimal Policy Design of Human-plant Symbiosis Co-creation.
+description: Decentralized Governance for Virtual Community (DeGov4VC) - Optimal Policy Design of Human-plant Symbiosis Co-creation.
 img: assets/img/project_imgs/p1.png
 importance: 1
 tags: "#VR, #AI Agent, #Co-creation. "
@@ -96,6 +96,8 @@ The DeGov4VC implemented a virtual community with AI agents and provided a clien
 <div class="caption">
     Relationship Diagram of DeGov4VC Framework.
 </div>
+
+
 
 
 In the human-machine co-creation process, we use a parameterized decentralized governance policy to regulate the community co-creation process, which determines the community structure and the collective decision-making process.  
