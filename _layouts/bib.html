@@ -106,10 +106,26 @@
 
           </div>
 
+<!--          &lt;!&ndash; Journal/Book title and date &ndash;&gt;-->
+<!--          {% assign proceedings = "inproceedings, incollection" | split: ','%}-->
+<!--          {% if entry.type == "article" -%}-->
+<!--            {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}-->
+<!--          {%- elsif proceedings contains entry.type -%}-->
+<!--            {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}-->
+<!--          {%- else -%}-->
+<!--            {%- capture entrytype -%}{%- endcapture -%}-->
+<!--          {%- endif -%}-->
+<!--          {%- if entry.month -%}-->
+<!--            {%- capture entrymonth -%}{{ " " }}{{ entry.month | capitalize }}{%- endcapture -%}-->
+<!--          {%- endif -%}-->
+
+
           <!-- Journal/Book title and date -->
           {% assign proceedings = "inproceedings, incollection" | split: ','%}
           {% if entry.type == "article" -%}
-            {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
+            {%- capture entrytype -%}<em>{{entry.journal}}</em>{{entry.other}}{%- endcapture -%}
+          {%- elsif entry.type == "conference" -%}
+            {%- capture entrytype -%}In <em>{{entry.journal}}</em>{{entry.other}}{%- endcapture -%}
           {%- elsif proceedings contains entry.type -%}
             {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
           {%- else -%}
