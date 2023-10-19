@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /projects/
-description: Published research projects, roughly categorized by Human-Computer Interaction (HCI), Human- AI Interaction (HAI), and Visualization (VIS).
+description: Published research projects, roughly categorized by Human-Computer Interaction (HCI), Human-AI Interaction (HAI), and Visualization (VIS).
 nav: true
 nav_order: 2
 display_categories: ["HCI & HAI", "VIS"]
