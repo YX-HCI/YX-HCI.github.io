@@ -78,8 +78,25 @@ We adopted an interactive co-design approach [5] to learn from policy decisions,
     </div>
 </div>
 <div class="caption">
+    
+</div>
+
+
+
+
+# Methodology
+The DeGov4VC implemented a virtual community with AI agents and provided a client as a user interface.
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project_imgs/lack.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
     Relationship Diagram of DeGov4VC Framework.
 </div>
+
 
 In the human-machine co-creation process, we use a parameterized decentralized governance policy to regulate the community co-creation process, which determines the community structure and the collective decision-making process.  
 
