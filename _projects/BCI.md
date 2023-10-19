@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Multimodal BCI Game for Children <a href="https://yx-hci.github.io/assets/pdf/BCI.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
+title: Multimodal BCI Training for Children <a href="https://yx-hci.github.io/assets/pdf/BCI.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
 description: Exploration of Brain-Computer Interaction for Supporting Children’s Attention Training - A Multimodal System Design.
 img: assets/img/project_imgs/p3.jpg
 importance: 3
