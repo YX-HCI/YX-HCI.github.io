@@ -2,7 +2,8 @@
 layout: page
 title: Research
 permalink: /projects/
-description: Published research projects, roughly categorized by Human-Computer Interaction (HCI) and Visualization (VIS).
+description: Published research projects, roughly categorized by 
+bold: Human-Computer Interaction (HCI) and Visualization (VIS).
 nav: true
 nav_order: 2
 display_categories: ["Human-Computer Interaction (HCI)", "Visualization (VIS)"]

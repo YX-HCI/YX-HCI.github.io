@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Generative Design & Visualization <a href="https://yx-hci.github.io/assets/pdf/gnvis.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
-description: A Style Matching Approach for the Generative Design of Animated Posters
+description: A Style Matching Approach for the Generative Design of Animated Posters.
 img: assets/img/project_imgs/gnvis/gnvis/0.png
 tags: "#Visualization. "
 importance: 1
