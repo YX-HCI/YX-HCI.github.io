@@ -3,7 +3,7 @@ layout: page
 title: Accessibility and Usability <a href="https://yx-hci.github.io/assets/pdf/Usability.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
 description: Enhancing Usability and Accessibility - Evaluation and Strategy for Elder-Friendly App Design
 img: assets/img/project_imgs/p2.png
-tags: "#Elder-friendly Design, #Usability, #Accessibility."
+tags: "#Elder-friendly, #Human-centered Design."
 importance: 2
 category: "HCI & HAI" 
 ---
