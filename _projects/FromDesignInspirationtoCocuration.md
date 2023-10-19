@@ -5,7 +5,7 @@ tags: "#Generative AI, #Co-curation, #Digital Exhibition. "
 description: The Changing Role of Curatorial Practice in a Digital Generative AI Landscape for the Arts.
 img: assets/img/project_imgs/FromDesignInspirationtoCo-curation/title.png
 importance: 5
-category: "Human-Computer Interaction (HCI)"
+category: "HCI & HAI"
 ---
 
 

@@ -5,7 +5,7 @@ description: Exploration of Brain-Computer Interaction for Supporting Childrenâ€
 img: assets/img/project_imgs/p3.jpg
 importance: 3
 tags: "#Brain-Computer Interface, #Attention Training, #Healthcare. "
-category: "Human-Computer Interaction (HCI)"
+category: "HCI & HAI"
 ---
 
 

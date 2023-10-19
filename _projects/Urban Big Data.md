@@ -5,7 +5,7 @@ description: Leveraging Urban Big Data for Informed Business Location Decisions.
 img: assets/img/project_imgs/UrbanBigData/Urbanbigdata.png
 importance: 2
 tags: "#Urban Big Data, #Spatial Computing, #Business Strategies. "
-category: "Visualization (VIS)"
+category: "VIS"
 ---
 
 Here’s the project paper: 

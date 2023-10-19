@@ -5,7 +5,7 @@ description: The Impact of Gamified Auditory-Verbal Training for Hearing-Challen
 img: assets/img/project_imgs/gavt/gavt/title.png
 importance: 4
 tags:  "#Gamified Training, #Healthcare. "
-category: "Human-Computer Interaction (HCI)"
+category: "HCI & HAI"
 ---
 
 

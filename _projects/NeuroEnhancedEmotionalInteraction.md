@@ -5,7 +5,7 @@ tags: "#Brain Cumputer Interaction, #Emotion, #HRI. "
 description: A System Design for Multi-Modal Emotion Regulation and Management in Human-Robot and Human-Computer Interactions.
 img: assets/img/project_imgs/Multi-ModalEmotionRegulation/title.png
 importance: 6
-category: "Human-Computer Interaction (HCI)"
+category: "HCI & HAI"
 ---
 
 

@@ -5,7 +5,7 @@ description: Exploring the Correlation between Urban Microclimate Simulation and
 img: assets/img/project_imgs/UrbanMorphology/UrbanMorphology.png
 importance: 3
 tags: "#Urban Morphology, #Modeling and Simulation."
-category: "Visualization (VIS)"
+category: "VIS"
 ---
 
 
