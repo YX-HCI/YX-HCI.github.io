@@ -19,14 +19,14 @@ category: "VIS"
 [//]: # ()
 
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center mt-3">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include video.html path="assets/img/vis_v1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center mt-3">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include video.html path="assets/img/video_gnvis.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
@@ -52,8 +52,8 @@ These coordinates were then clustered using the K-means algorithm, with the Cali
 
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gnvis/gnvis/1.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -67,8 +67,8 @@ These coordinates were then clustered using the K-means algorithm, with the Cali
 
 To capture the multi-sense nature of the vocabulary, positive and negative bipolar adjectives were chosen as evaluation dimensions using the semantic differential method. Building on the thesaurus clustering results, we conducted lexical pairing. Utilizing the central words from the 10 class clusters obtained through K-means clustering, representative words were selected for semantic pairing based on the animated dimension of each class description. This process yielded 9 semantic word pairs, serving as evaluation dimensions for the animated style (refer to Table 1).
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gnvis/gnvis/2.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -83,8 +83,8 @@ We utilized the semantic difference method to gather users' perceptual cognitive
 Then collected 14 classic animated effects, reproduced in GIF format, as experimental stimuli. Combined nine semantic style dimensions with a 7-point Likert scale for animated style evaluation and obtained 30 valid user data, including 10 males and 20 females, with half having no design background.
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gnvis/gnvis/3.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -103,8 +103,8 @@ After experimental validation, we identified the five most representative semant
 ## Animation Effect Analysis
 Four basic units for further research on the semantics of animated style were finally determined based on the structure of animated elements: motion effect, motion duration, amplitude, and speed.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gnvis/gnvis/4.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -118,8 +118,8 @@ Four basic units for further research on the semantics of animated style were fi
 After **Dataset Collection and Processing** & **Algorithm Modeling and Fitting**, we constructed a neural network model to investigate the relationship between animated parameters and animated styles.
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gnvis/gnvis/5.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -129,8 +129,8 @@ After **Dataset Collection and Processing** & **Algorithm Modeling and Fitting**
 
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gnvis/gnvis/6.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -142,8 +142,8 @@ After **Dataset Collection and Processing** & **Algorithm Modeling and Fitting**
 In order to achieve this goal quickly and effectively in practical application scenarios, a genetic algorithm is introduced in this study. We integrated the genetic algorithm with BP neural network based on its excellent global search ability, and use the BP network as the fitness function of the genetic algorithm to obtain the animated combination that meets the user’s style intention in a more efficient way. 
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gnvis/gnvis/7.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -157,8 +157,8 @@ In order to achieve this goal quickly and effectively in practical application s
 
 We designed the framework of the platform based on the generation path of animated advertising posters. During the poster design process, the designer sequentially takes four steps: obtaining materials, understanding the content, generating and adjusting parameters, and decoding and displaying.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gnvis/gnvis/8.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -174,8 +174,8 @@ We designed the framework of the platform based on the generation path of animat
 For the core requirements of in the user operation flow distilled in the previous interview, the corresponding functional solutions are set. The main patterns include design-based generation, and product diagram-based generation. Based on typical usage scenarios and technical implementation considerations, the web application is chosen as the vehicle for the generation tool.
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gnvis/gnvis/9.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -184,8 +184,8 @@ For the core requirements of in the user operation flow distilled in the previou
 </div>
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gnvis/gnvis/10.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -197,8 +197,8 @@ For the core requirements of in the user operation flow distilled in the previou
 During the prototype phase, a high-fidelity version of the poster generation tool web app was developed using Figma to refine conceptual ideas. The functional prototype, built on the H5 web framework, validated and implemented core functions, specifically the generation process of two models. The prototype comprised web front-end and server back-end components. The front-end, powered by JavaScript's JQuery, facilitated user interactions, file uploads, and data processing. The back-end, written in Python, accepted commands for animated style-matching, scheme parameter generation, and template data access from the front-end.
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gnvis/gnvis/11.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -223,8 +223,8 @@ A total of 24 subjects aged 20-30 years old participated in the memory test and 
 1. **Memory test**: the recall of the advertisement is the percent of people who correctly recalled the main product in the poster, and the recall of each poster in the experimental group and the control group was calculated.
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gnvis/gnvis/12.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -236,8 +236,8 @@ A total of 24 subjects aged 20-30 years old participated in the memory test and 
 
 2. **Subjective assessment**: The reliability test on questionnaire scale data yielded a Cronbach alpha coefficient of 0.835, indicating high reliability for subsequent analysis. Posters' quality was evaluated using a user engagement scale, with an overall engagement score calculated from three dimensions. The 12 experimental group posters were scored in three groups, summed for the total score, and compared via paired t-test with a control group.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gnvis/gnvis/13.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -251,8 +251,8 @@ A total of 24 subjects aged 20-30 years old participated in the memory test and 
 3. **Generating diversity assessment**: the data analysis method for generating diversity of results is the same as the quality assessment. 
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gnvis/gnvis/14.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -267,8 +267,8 @@ Experimental findings indicate that the proposed animated poster generation mode
 
 Utilizing usability testing tasks, subjective scales, and user feedback, we identify usability issues, informing the direction for system design optimization iterations to enhance the overall user experience.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gnvis/gnvis/15.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

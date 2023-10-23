@@ -26,8 +26,8 @@ This study focuses the outdoor temperature of different residential blocks in Se
 
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/UrbanMorphology/1.1.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -39,7 +39,7 @@ This study focuses the outdoor temperature of different residential blocks in Se
 ### 1) Selection and Classification Principles for the Research Site
 The research site is chosen to encompass a variety of building types, including high-rise and low-rise structures. This selection aims to eliminate interference factors stemming from different land masses, such as varying building densities, traffic conditions, wind speeds, and outdoor temperatures. When classifying building types, plots with well-defined boundaries are preferred. Considering these factors, the Yongdeungpo Area in Seoul is chosen as the research site.
 
-<div class="row justify-content-sm-center">
+<div class="row justify-content-sm-center justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/UrbanMorphology/2.1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -53,8 +53,8 @@ The research site is chosen to encompass a variety of building types, including 
 
 By assessing the overall height of building cluster, using road and the nature building cluster characteristic as as a natural boundary to classify. Two residential building types(a. high-rise building and b. low-rise building)are selected.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/UrbanMorphology/3.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -64,7 +64,7 @@ By assessing the overall height of building cluster, using road and the nature b
 
 The streetscape fabric of the two urban residential zones, along with their related spatial pattern indexes, are outlined below.
 
-<div class="row justify-content-sm-center">
+<div class="row justify-content-sm-center justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/UrbanMorphology/4.1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -80,7 +80,7 @@ The streetscape fabric of the two urban residential zones, along with their rela
 
 Through meticulous on-site investigations, we obtained precise specifications for the smallest single building in the selected area. Using a 2D road network map as a foundation, we incorporated green plants along the roadside to ensure the model reflected the actual conditions on the ground. The heights of the buildings in the model were determined based on pre-surveyed data, ranging from 15m to 100m. Once the specifications were finalized, we proceeded to model the area with great precision using the Envi-met software, to simulate and analyze the microclimate characteristics of the area in a highly accurate and detailed manner .
 
-<div class="row justify-content-sm-center">
+<div class="row justify-content-sm-center justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/UrbanMorphology/5.1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -102,7 +102,7 @@ In ENVI-met, two types of data are required for model calculations. Firstly, the
 
 **1) High-rise Building Block Has Higher Temperature:** By examining the temperature profile at one o'clock in the afternoon (Figure 11), it becomes evident that the high-rise buildings consistently exhibit higher temperatures compared to the low-rise buildings. This temperature difference persists throughout the day.
 
-<div class="row justify-content-sm-center">
+<div class="row justify-content-sm-center justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/UrbanMorphology/6.1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -118,7 +118,7 @@ In ENVI-met, two types of data are required for model calculations. Firstly, the
 
 **3)	Air Flow Helps to Lower the Neighborhood Temperature:** The narrow pathway nestled amidst the low-rise buildings consistently maintains significantly lower temperatures compared to its surrounding areas. The mechanism at play here involves the unrestricted flow of air, which carries away excess heat and promotes heat dispersion, which underscores the beneficial impact of enhanced air circulation in lowering local temperatures.
 
-<div class="row justify-content-sm-center">
+<div class="row justify-content-sm-center justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/UrbanMorphology/7.1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>

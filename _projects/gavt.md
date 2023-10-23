@@ -11,8 +11,8 @@ category: "HCI & HAI"
 
 **Project Video**
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center mt-3">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include video.html path="assets/img/gavt.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
@@ -33,8 +33,8 @@ For the purpose, a digital gamified auditory-verbal training system was original
 # Game Design and Development  
 A digital auditory-verbal training game was originally developed. Particularly, different training tasks were designed based on children’s hearing capabilities and development states at intermediate and advanced rehabilitation stages. With the training game prototype, participants were recruited to use the training game. Their training performance will be recorded and analyzed to verify if the gamified training approach has any influence on the training effect.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gavt/gavt/0.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -45,8 +45,8 @@ A digital auditory-verbal training game was originally developed. Particularly, 
 
 The auditory-verbal training game named "Hear to See" was developed to assist hearing-challenged children between three to six years old. Especially, their skills in sound volume perception, auditory memory, auditory description, articulation abilities, sentence expression, and cognitive abilities will be focused and trained. Figure 1 shows the whole game structure. 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gavt/gavt/1.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -56,7 +56,7 @@ The auditory-verbal training game named "Hear to See" was developed to assist he
 
 
 
-<div class="row justify-content-sm-center">
+<div class="row justify-content-sm-center justify-content-sm-center">
     <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gavt/gavt/2.1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -73,7 +73,7 @@ The auditory-verbal training game named "Hear to See" was developed to assist he
 
 
 
-<div class="row justify-content-sm-center">
+<div class="row justify-content-sm-center justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gavt/gavt/3.1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -87,7 +87,7 @@ The auditory-verbal training game named "Hear to See" was developed to assist he
 
 
 
-<div class="row justify-content-sm-center">
+<div class="row justify-content-sm-center justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gavt/gavt/4.1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -103,8 +103,8 @@ The auditory-verbal training game named "Hear to See" was developed to assist he
 # Experiment design and Process
 Regarding the experiment process, it covers three main stages (as shown in Figure 6). The first stage is the preparation. The experiment purpose, procedures, and guidelines were explained to the participants and their parents. With the assistance of the therapist in the rehabilitation center, basic information of the participants was recorded, and their hearing ability will be assessed.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gavt/gavt/5.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -116,8 +116,8 @@ Regarding the experiment process, it covers three main stages (as shown in Figur
 During the experiment, participants were assigned with training games matching with their rehabilitation stage. For example, the children at intermediate rehabilitation stage need to try the Warming up, Auditory memory, and Articulation and expression games. Correspondingly, the children at advanced rehabilitation stage need to try all the games from Warming up to Direction recognition. For each game, 5 minutes were assigned for participants to practice, so that 20-25 minutes in total was spent for each round of training. 
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gavt/gavt/6.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -132,7 +132,7 @@ The whole game process of all participants was recorded. Considering that the So
 - **Dubbing Game**: Participants’ completion time, the number of times the audio description has been played, the number of pronunciation errors, and specific errors in sound and intonation.
 - **Direction Game**: Participants’ completion time and pronunciation errors.
 
-<div class="row justify-content-sm-center">
+<div class="row justify-content-sm-center justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gavt/gavt/7.1.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -144,8 +144,8 @@ The whole game process of all participants was recorded. Considering that the So
      OpenCV Face Detection
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gavt/gavt/8.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -166,8 +166,8 @@ Particularly, an analysis strategy consisting of auditory memory evaluation, art
 
 **RQ 1: Do the training performance of children at advanced rehabilitation stage differ before and after using the gamified training system?**
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gavt/gavt/9.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -176,8 +176,8 @@ Particularly, an analysis strategy consisting of auditory memory evaluation, art
 </div>
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gavt/gavt/10.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -186,8 +186,8 @@ Particularly, an analysis strategy consisting of auditory memory evaluation, art
 </div>
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gavt/gavt/11.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -195,8 +195,8 @@ Particularly, an analysis strategy consisting of auditory memory evaluation, art
     
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gavt/gavt/12.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -208,8 +208,8 @@ Particularly, an analysis strategy consisting of auditory memory evaluation, art
 **RQ 2: Do the training performances of children at intermediate rehabilitation stage differ before and after using the gamified training system?**
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gavt/gavt/13.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -218,8 +218,8 @@ Particularly, an analysis strategy consisting of auditory memory evaluation, art
 </div>
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gavt/gavt/14.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -228,8 +228,8 @@ Particularly, an analysis strategy consisting of auditory memory evaluation, art
 </div>
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gavt/gavt/15.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -242,8 +242,8 @@ Particularly, an analysis strategy consisting of auditory memory evaluation, art
 
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gavt/gavt/16.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -252,8 +252,8 @@ Particularly, an analysis strategy consisting of auditory memory evaluation, art
 </div>
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gavt/gavt/17.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -271,8 +271,8 @@ Based on the results analysis, the gamified system can generally achieve positiv
 
 Through comparing children’s training performance between advanced and intermediate rehabilitation stages, it can be found that the gamified approach generally shows more effective influence on children at intermediate rehabilitation stage, especially in the basic auditory (i.e., auditory memory) and verbal (i.e., articulation, auditory description with hints, language for expression) capabilities. It can be understood that for children at the preliminary rehabilitation stage, the training measure which can attract them to practice more may lead to obvious improvements. However, for the children at advanced rehabilitation stage, it is not easy to achieve quick improvement just through the gamification of the training content. 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gavt/gavt/18.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -280,8 +280,8 @@ Through comparing children’s training performance between advanced and interme
     
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gavt/gavt/19.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -292,8 +292,8 @@ Through comparing children’s training performance between advanced and interme
 Through a comparison, it is extremely clear that children with intermediate auditory-verbal capabilities can achieve better improvements. The Scenario understanding test is helpful to change the training performance of children at intermediate rehabilitation stage, but appears not effective enough to influence children at the advanced stage. The finding is consistent with above that the more complex and professional training content may better fit the children at advanced stage, and the specific gamification methods and elements should match with participants’ skill levels well.
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gavt/gavt/20.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -303,8 +303,8 @@ Through a comparison, it is extremely clear that children with intermediate audi
 
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gavt/gavt/21.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

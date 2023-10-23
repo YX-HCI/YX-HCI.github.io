@@ -22,7 +22,7 @@ Recent developments in brain-computer interface (BCI) technology have shown grea
 # Establishment of BCI Gamification Training System
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/bci/1.png" title="DUIIT image" class="img-fluid rounded z-depth-1 img-70-center" %}
     </div>
 </div>
@@ -35,8 +35,8 @@ Recent developments in brain-computer interface (BCI) technology have shown grea
 The BCI attention training system based on ANT and gamification is developed. In particular, two subsystems are constructed, including the hardware system, which detects the brain signals, and the software system, which mainly includes a training game referring to ANT and the Octalysis framework. in particular, consumer-grade brain–computer devices are employed to detect the EEG signals from users. The data are then transmitted to data analysis software, which allows the retrieval of brain wave data by third-party applications or devices and conducts the data processing, data filtering and basic calculations. With the brain signals inputs, the game development tool of Unity is used to realize the training game. The connections between the hardware and software are presented.
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/bci/2.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -83,8 +83,8 @@ Phase 1 is to configure the hardware settings to detect and collect the brain si
 
 ## Multimodal Interaction System Based on Gamification Design
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/bci/7.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -93,8 +93,8 @@ Phase 1 is to configure the hardware settings to detect and collect the brain si
 </div>
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/bci/8.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -124,8 +124,8 @@ Phase 1 is to configure the hardware settings to detect and collect the brain si
 **Establishment of EEG Training Set**  
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/bci/11.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -137,8 +137,8 @@ Phase 1 is to configure the hardware settings to detect and collect the brain si
 
 **Determination of Focus Value Thresholds**
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/bci/12.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -150,8 +150,8 @@ Phase 1 is to configure the hardware settings to detect and collect the brain si
 
 **Participants**
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/bci/13.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -163,8 +163,8 @@ Phase 1 is to configure the hardware settings to detect and collect the brain si
 **Experiment Process**
 The experimental process lasted 16 days and consisted of three parts.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/bci/14.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -186,8 +186,8 @@ For user experience evaluation, In-Game Experience scale was provided. It is a s
 
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/bci/15.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -197,8 +197,8 @@ For user experience evaluation, In-Game Experience scale was provided. It is a s
 
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/bci/16.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -218,8 +218,8 @@ No significant difference is presented in their original concentration ability, 
 ### Comparative Analysis before and after Training in Experimental Group
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/bci/17.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -227,8 +227,8 @@ No significant difference is presented in their original concentration ability, 
     The Conners Child Behavior Scores of the experimental group before and after the experiment.
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/bci/18.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -237,8 +237,8 @@ No significant difference is presented in their original concentration ability, 
 </div>
 
 ### Comparative Analysis before and after Training in Control Group
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/bci/19.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -247,8 +247,8 @@ No significant difference is presented in their original concentration ability, 
 </div>
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/bci/20.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -259,8 +259,8 @@ No significant difference is presented in their original concentration ability, 
 According to the analysis above, it can be concluded that the experimental group with BCI training showed significantly improved attention levels. The training game could provide a positive intervention effect on children’s attention performance.
 
 ### Analysis of the Game Reaction Time 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/bci/21.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -276,8 +276,8 @@ To further analyze participants’ performance in each attention network, the pa
 ### Analysis of Game Experience
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/bci/22.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

@@ -21,7 +21,7 @@ Previous studies have shown that when designing for middle-aged and elderly peop
 # Research Problem
 Explore the **usability** and **learnability** problem of the elder-friendly design for the real elder people in mobile apps. 
 
-<div class="row justify-content-sm-center">
+<div class="row justify-content-sm-center justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/p2_1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -44,7 +44,7 @@ We take Alipay App as an example in this experiment to conduct research from the
 
 Based on the evaluation results, design improvement strategies suitable for senior users will be proposed. 
 
-<div class="row justify-content-sm-center">
+<div class="row justify-content-sm-center justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/p2_3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -52,7 +52,7 @@ Based on the evaluation results, design improvement strategies suitable for seni
         {% include figure.html path="assets/img/project_imgs/p2_4.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="row justify-content-sm-center">
+<div class="row justify-content-sm-center justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/p2_5.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -68,8 +68,8 @@ Based on the evaluation results, design improvement strategies suitable for seni
 ## Experiment subjects 
 16 participants between the ages of 45 and 59 were recruited for the experiment were randomly divided into 2 groups, of which group A (GA) used Alipay's normal mode to complete the tasks, and group B (GB) used Alipay's elder-friendly mode as shown in table 1.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/p2_7.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -105,8 +105,8 @@ Two categories of measurement indicators were formulated: **objective and subjec
 - Interview results after the experiment
 
 ## Experiment process
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/p2_8.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -115,8 +115,8 @@ Two categories of measurement indicators were formulated: **objective and subjec
 ## A. Overall information architecture 
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/p2_9.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -126,13 +126,13 @@ Two categories of measurement indicators were formulated: **objective and subjec
 
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/usability/p2_10.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/usability/pic4.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -142,8 +142,8 @@ Two categories of measurement indicators were formulated: **objective and subjec
 
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/usability/p2_11.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -155,8 +155,8 @@ Two categories of measurement indicators were formulated: **objective and subjec
 ## B. Interface design analysis
 **(1) Superimposed heat map**
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/usability/图片11.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -166,8 +166,8 @@ Two categories of measurement indicators were formulated: **objective and subjec
 </div>
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/usability/图片12.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -176,8 +176,8 @@ Two categories of measurement indicators were formulated: **objective and subjec
 </div>
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/usability/图片13.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -189,14 +189,14 @@ Two categories of measurement indicators were formulated: **objective and subjec
 **(2) AOI fixation rate of Alipay’s homepage** 
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/usability/图片15.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/usability/图片14.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -205,8 +205,8 @@ Two categories of measurement indicators were formulated: **objective and subjec
 </div>
 
 **(3) Task flow design analysis**
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/usability/图片16.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

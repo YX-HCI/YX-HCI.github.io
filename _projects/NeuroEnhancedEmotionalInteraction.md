@@ -16,8 +16,8 @@ Here’s the project paper:
 
 Analysis of the core literature in the Web of Science indicates a quantifiable growth in the research on emotion recognition and regulation in recent years. Keywords analysis revealed a close relationship between emotion recognition and regulation and electroencephalogram (EEG) signals. A knowledge graph analysis was conducted on the connectivity between emotions and brain-machine-related factors.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/Multi-ModalEmotionRegulation/1.jpg" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -57,8 +57,8 @@ EEG caps (eego mylab), Emotiv BCI Epoc, and related brain-machine interface devi
 
 Utilizing different frequency data, brain-machine interface signals were processed for serial communication and then visualized using Touch Designer. The system included emotional decoding algorithm development.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/Multi-ModalEmotionRegulation/2.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -68,7 +68,7 @@ Utilizing different frequency data, brain-machine interface signals were process
 </div>
 
 
-<div class="row justify-content-sm-center">
+<div class="row justify-content-sm-center justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/Multi-ModalEmotionRegulation/3.1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -91,8 +91,8 @@ Six categories of video stimuli were selected to validate their impact on user e
 
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/Multi-ModalEmotionRegulation/4.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -101,7 +101,7 @@ Six categories of video stimuli were selected to validate their impact on user e
 
 </div>
 
-<div class="row justify-content-sm-center">
+<div class="row justify-content-sm-center justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/Multi-ModalEmotionRegulation/5.1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -120,8 +120,8 @@ Six categories of video stimuli were selected to validate their impact on user e
 
 Customized emotion management includes monitoring and regulation. The monitoring system visualizes EEG waves for user perception, while the regulation system offers various modules and real-time monitoring, allowing users to select emotion management health reports.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/Multi-ModalEmotionRegulation/6.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

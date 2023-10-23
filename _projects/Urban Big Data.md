@@ -20,8 +20,8 @@ With the development of the information age, cities provide a large amount of da
 At the level of research methodology, we collect data by processing and visualizing them for different aspects of analysis, to derive the influence of different factors.
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/UrbanBigData/1.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -47,8 +47,8 @@ The traffic information is abstracted into public transportation coverage, inclu
 ### 1)	Spatial distribution status:
 According to the official data of Starbucks, there were 175 Starbucks coffee shops in Guangzhou, including 143 central urban areas (Liwan District, Yuexiu District, Haizhu District, Tianhe District, Baiyun District, Huangpu District), accounting for 81.7%, 26 in the suburbs (Panyu District, Huadu District), 6 in the remote suburbs (Nansha District, Zengcheng City, Conghua City), showing a rapid decline from the center. 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/UrbanBigData/2.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -59,8 +59,8 @@ According to the official data of Starbucks, there were 175 Starbucks coffee sho
 The concentration of Starbucks stores predominantly centers around the core of Tianhe District, exhibiting a pronounced correlation with the patterns of public traffic flow.
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/UrbanBigData/3.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -71,8 +71,8 @@ The concentration of Starbucks stores predominantly centers around the core of T
 
 The distribution of Starbucks stores in Tianhe District reveals four primary typologies: street-facing storefronts on the first floor of large shopping malls, non-1st floor storefronts within large shopping malls, strip storefronts, and street-facing storefronts on the first floor of commercial office buildings, as well as non-1st floor street storefronts within commercial office buildings. Among these categories, street-facing storefronts on the first floor of large shopping malls account for 40% of the selected sites, occupying prime street-level spaces with high pedestrian footfall. Additionally, favorable locations include prominent business districts, strip commercial districts, and business office areas. It is noteworthy that only two Starbucks establishments are situated within the subterranean dining spaces of office buildings.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/UrbanBigData/3.5.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -85,8 +85,8 @@ The distribution of Starbucks stores in Tianhe District reveals four primary typ
 
 **a. Land Use & Price:**
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/UrbanBigData/4.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -96,8 +96,8 @@ The distribution of Starbucks stores in Tianhe District reveals four primary typ
 
 **b. Transportation:**
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/UrbanBigData/5.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -105,8 +105,8 @@ The distribution of Starbucks stores in Tianhe District reveals four primary typ
     Figure 5. The spatial distribution of starbucks with land price of Tianhe District of Guangzhou.
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/UrbanBigData/6.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -116,8 +116,8 @@ The distribution of Starbucks stores in Tianhe District reveals four primary typ
 
 **c. Flow of Pedestrians:**
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/UrbanBigData/7.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

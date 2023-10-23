@@ -22,8 +22,8 @@ Curatorial practice contains diverse challenges of selecting, ideating, coordina
 
 To address these research questions, we initiated our investigation by conducting interviews with ten curators. These discussions allowed us to understand the experiences, challenges, and reflections associated with the everyday use of AIGC tools in curatorial work. This was followed by a case investigation study to delve into how AIGC tools are utilized throughout the entire curatorial process. Specifically, three curators, under the guidance of our research team, engaged in curatorial activities using AIGC tools, culminating in the creation of a virtual exhibition on the VRchat platform.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/FromDesignInspirationtoCo-curation/1.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -32,8 +32,8 @@ To address these research questions, we initiated our investigation by conductin
 </div>
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/FromDesignInspirationtoCo-curation/2.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -43,8 +43,8 @@ To address these research questions, we initiated our investigation by conductin
 
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/FromDesignInspirationtoCo-curation/3.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -54,8 +54,8 @@ To address these research questions, we initiated our investigation by conductin
 
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/FromDesignInspirationtoCo-curation/4.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -65,8 +65,8 @@ To address these research questions, we initiated our investigation by conductin
 
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/FromDesignInspirationtoCo-curation/5.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -76,8 +76,8 @@ To address these research questions, we initiated our investigation by conductin
 
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/FromDesignInspirationtoCo-curation/6.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -87,8 +87,8 @@ To address these research questions, we initiated our investigation by conductin
 
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/FromDesignInspirationtoCo-curation/7.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
