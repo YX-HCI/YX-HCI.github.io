@@ -80,7 +80,7 @@ The streetscape fabric of the two urban residential zones, along with their rela
 
 Through meticulous on-site investigations, we obtained precise specifications for the smallest single building in the selected area. Using a 2D road network map as a foundation, we incorporated green plants along the roadside to ensure the model reflected the actual conditions on the ground. The heights of the buildings in the model were determined based on pre-surveyed data, ranging from 15m to 100m. Once the specifications were finalized, we proceeded to model the area with great precision using the Envi-met software, to simulate and analyze the microclimate characteristics of the area in a highly accurate and detailed manner .
 
-<div class="row justify-content-sm-center justify-content-sm-center">
+<div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/UrbanMorphology/5.1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -89,7 +89,7 @@ Through meticulous on-site investigations, we obtained precise specifications fo
     </div>
 </div>
 <div class="caption">
-    Figure 5. Left: View of 2D Model.   Right: View of  3D Model.
+    Figure 5. Left: View of 2D Model.   Right: View of 3D Model.
 </div>
 
 
