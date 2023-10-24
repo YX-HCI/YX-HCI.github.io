@@ -22,10 +22,10 @@ Previous studies have shown that when designing for middle-aged and elderly peop
 Explore the **usability** and **learnability** problem of the elder-friendly design for the real elder people in mobile apps. 
 
 <div class="row justify-content-sm-center justify-content-sm-center">
-    <div class="col-sm-3 mt-3 mt-md-0">
+    <div class="col-sm-1 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/p2_1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-3 mt-3 mt-md-0">
+    <div class="col-sm-1 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/p2_2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
