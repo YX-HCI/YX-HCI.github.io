@@ -21,7 +21,7 @@ At the level of research methodology, we collect data by processing and visualiz
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/UrbanBigData/1.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -60,7 +60,7 @@ The concentration of Starbucks stores predominantly centers around the core of T
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/UrbanBigData/3.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -86,7 +86,7 @@ The distribution of Starbucks stores in Tianhe District reveals four primary typ
 **a. Land Use & Price:**
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/UrbanBigData/4.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

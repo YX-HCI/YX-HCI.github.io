@@ -104,7 +104,7 @@ The auditory-verbal training game named "Hear to See" was developed to assist he
 Regarding the experiment process, it covers three main stages (as shown in Figure 6). The first stage is the preparation. The experiment purpose, procedures, and guidelines were explained to the participants and their parents. With the assistance of the therapist in the rehabilitation center, basic information of the participants was recorded, and their hearing ability will be assessed.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-9 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gavt/gavt/5.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -133,10 +133,10 @@ The whole game process of all participants was recorded. Considering that the So
 - **Direction Game**: Participants’ completion time and pronunciation errors.
 
 <div class="row justify-content-sm-center justify-content-sm-center">
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gavt/gavt/7.1.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/gavt/gavt/7.2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
