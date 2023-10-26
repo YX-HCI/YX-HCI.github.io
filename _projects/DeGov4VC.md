@@ -28,7 +28,7 @@ Here’s the project paper link:
 - **Yan Xiang**, Qianhui Fan, Kejiang Qian, Jiajie Li, Yuying Tang, and Ze Gao. (2023). “Decentralized Governance for Virtual Community (DeGov4VC): Optimal Policy Design of Human-plant Symbiosis Co-creation.” _In Companion Publication of the 2023 ACM Designing Interactive Systems Conference (DIS '23 Companion). Association for Computing Machinery, New York, NY, USA, 207–212. https://doi.org/10.1145/3563703.3596621, (ACM)._
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-10 mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_imgs/p1_1.png" title="DUIIT image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
