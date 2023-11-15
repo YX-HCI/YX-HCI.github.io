@@ -34,7 +34,7 @@ under the supervision of Prof. [Danni Chang (Associate Dean)](https://designscho
 I am now also a visiting student in [Data-Driven Innovation Lab](https://ddi.sutd.edu.sg/) at [**Singapore University of Technology and Design (SUTD)**](https://www.sutd.edu.sg/), 
 under the supervision of Prof. [Jianxi Luo](https://epd.sutd.edu.sg/people/faculty/luo/).
 
-My broad research interests include **Human-Computer Interaction (HCI)**, **Human-AI Interaction (HAI)**, **AR & VR**, **Education Technology**, and their application to Multimodal Human Perception and Engagement, Accessibility, Digital Health, as well as Data-driven Approach to Human-centered Design (HCD) and Pervasive Computing.
+My broad research interests include **Human-Computer Interaction (HCI)**, **Human-AI Interaction (HAI)**, **AR & VR**, **Accessibility**, **Education Technology**, and their application to Multimodal Human Perception and Engagement, Digital Health, as well as Data-driven Approach to Human-centered Design (HCD) and Pervasive Computing.
 
 I am passionate about exploring how people can better interact with the world in a multimodal and natural way, enriched with diverse perceptions and emotions. I hope to work on this idea on the way to pursuing further study and feel more confident than ever to make it happen.
 
