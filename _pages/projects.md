@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /projects/
-description: Published research projects, roughly categorized by Human-Computer Interaction (HCI), Human-AI Interaction (HAI), Visualization (VIS), Computer-Supported Cooperative Work and Social Computing (CSCW).
+description: Published research projects, roughly categorized by Human-Computer Interaction (HCI), Human-AI Interaction (HAI), AR & VR, Visualization (VIS), Computer-Supported Cooperative Work and Social Computing (CSCW).
 nav: true
 nav_order: 2
 display_categories: ["HCI & HAI & AR/VR", "VIS & CSCW"]
