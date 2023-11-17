@@ -10,7 +10,7 @@ category: "HCI & HAI"
 
 
 Here’s the project paper: 
-- Zhang, J. *, **Xiang, Y.** * , Zhao, Y. *, Jin, X., Sun, J., Fan, M., Tong, X., and LC, R. (2024). From Design Inspiration to Co-curation: The Changing Role of Curatorial Practice in a Digital Generative AI Landscape for the Arts. In *2024 CHI Conference on Human Factors in Computing Systems (CHI)*. (Submitted, *Co-first authors). 
+- Zhang, J. \*, **Xiang, Y.** \* , Zhao, Y. \*, Jin, X., Sun, J., Fan, M., Tong, X., and LC, R. (2024). From Design Inspiration to Co-curation: The Changing Role of Curatorial Practice in a Digital Generative AI Landscape for the Arts. In *2024 CHI Conference on Human Factors in Computing Systems (CHI)*. (Submitted, *Co-first authors). 
 
 
 Curatorial practice contains diverse challenges of selecting, ideating, coordinating, and publicizing exhibited works. In the context of Generative AI (AIGC), they encounter solutions to old challenges while facing new ones. To examine how curators respond to their changing roles in the face of AIGC, we interviewed experienced curators and uncovered that while the use of AIGC in their practice can struggle with metaphors in their work, it can facilitate communication and enhance inspiration. To explore how may AIGC influence curatorial workflows, we undertook three case studies with curators for the digital exhibition process, and found that they applied AIGC in their curatorial workflow to varying degrees, from generating curatorial statement content to designing spaces, to even customizing artworks themselves. This work offers a toolkit for future curator-AIGC interaction, illustrates the changing of curation in adaptation to generative AI technologies and proposes AIGC optimization.
