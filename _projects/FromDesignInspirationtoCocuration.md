@@ -1,11 +1,11 @@
 ---
 layout: page
 title: From Design Inspiration to Co-curation 
-tags: "#AIGC, #Co-creation, #Digital Exhibition. "
+tags: "#AIGC, #Co-creation, #VR, #Digital Exhibition. "
 description: The Changing Role of Curatorial Practice in a Digital Generative AI Landscape for the Arts.
 img: assets/img/project_imgs/FromDesignInspirationtoCo-curation/title.png
 importance: 5
-category: "HCI & HAI"
+category: "HCI & HAI & AR/VR"
 ---
 
 
