@@ -5,7 +5,7 @@ description: Decentralized Governance for Virtual Community (DeGov4VC) - Optimal
 img: assets/img/project_imgs/p1.png
 importance: 1
 tags: "#VR, #AI Agent, #Co-creation. "
-category: "HCI & HAI"
+category: "HCI & HAI & AR/VR"
 ---
 
 This is a project I led when I was being a research assistant in the MIT Media Lab-City Science Lab @ Shanghai for one year. And published as the first author in DIS ‘23 WiP.
