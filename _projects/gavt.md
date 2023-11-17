@@ -17,6 +17,9 @@ category: "HCI & HAI"
     </div>
 </div>
 
+Here’s the project paper: 
+- **Xiang, Y.**, Zhang, Z., Chang, D., Tu, L. (2023). The Impact of Gamified Auditory-Verbal Training for Hearing-Challenged Children at Intermediate and Advanced Rehabilitation Stages. Computers \& Education. (SCI, Q1, IF=12, Under Review).
+
 
 # Abstract
 
