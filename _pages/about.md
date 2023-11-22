@@ -49,14 +49,14 @@ My hobbies contain Tennis (Singles Final Four at NEU), Writing, Hiking, Painting
 ---
 
 ### My Research Experience
-I actively engaged in various research area and found my interest lied in HCI, and fueled my desire to become a researcher in the future. I believe that pursing a PhD in Human-Computer Interaction is the logical next step in my academic journey.
+I actively engaged in various research areas and found that my interest lay in HCI, which fueled my desire to become a researcher in the future. I believe that pursuing a PhD is the logical next step in my academic journey.
 
 #### Research Assistant
 - [**NUS-HCI Lab**](https://www.nus-hci.org/) of Department of Computer Science @ National University of Singapore, under the supervision of Prof. [Shengdong Zhao](https://www.shengdongzhao.com/);
 
 - [**MIT Media Lab CSL**](https://www.csl-sh.org/) @ Shanghai, research assistan, under the supervision of Dr. [Yan Zhang (Ryan)](https://www.media.mit.edu/people/ryanz/overview/) and Prof. [Yang Liu](https://tjdi.tongji.edu.cn/TeacherDetail.do?id=1146&lang=_en)
 
-- [**Rui Jin Hospital - miHoYo Brain Computer Interface(BCI) Lab**](https://rmlab.cn/) @ Clinical Neuroscience Center of Ruijin Hospital, under the supervision of Dr. [Chencheng Zhang](https://scholar.google.com/citations?user=SAxKuRsAAAAJ&hl=zh-CN), 
+- [**Rui Jin Hospital & miHoYo Brain Computer Interface(BCI) Lab**](https://rmlab.cn/) @ Clinical Neuroscience Center of Ruijin Hospital, under the supervision of Dr. [Chencheng Zhang](https://scholar.google.com/citations?user=SAxKuRsAAAAJ&hl=zh-CN), 
 Dr. [Odin van der Stelt](https://scholar.google.com/citations?user=Ugw6B7EAAAAJ&hl=en), and Prof. [Baoliang LU](https://bcmi.sjtu.edu.cn/home/blu/).  
 
 - [**Cultural Innovation and Youth Development Institute**](https://icci.sjtu.edu.cn/) @ University of Southern California(USC) & SJTU (collaborated), under the supervision of Prof. [Jian Xu](https://smc.sjtu.edu.cn/english.php/teacher/detail/id/168) 
